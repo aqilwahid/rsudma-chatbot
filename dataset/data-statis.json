@@ -1,0 +1,716 @@
+[
+    {
+        "instruction": "Apa layanan kesehatan yang disediakan oleh RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Medis",
+        "output": "RSUD dr. H. Moh. Anwar Sumenep menyediakan layanan kesehatan seperti rawat jalan, rawat inap, penunjang medis, dan penunjang non-medis. Rumah sakit ini memiliki 18 poliklinik spesialis yang melayani berbagai bidang medis, termasuk penyakit dalam, saraf, jantung, hingga kesehatan jiwa.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa layanan kesehatan yang disediakan oleh RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Medis ### Output: RSUD dr. H. Moh. Anwar Sumenep menyediakan layanan kesehatan seperti rawat jalan, rawat inap, penunjang medis, dan penunjang non-medis. Rumah sakit ini memiliki 18 poliklinik spesialis yang melayani berbagai bidang medis, termasuk penyakit dalam, saraf, jantung, hingga kesehatan jiwa."
+    },
+    {
+        "instruction": "Di mana lokasi RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Lokasi",
+        "output": "RSUD dr. H. Moh. Anwar Sumenep berlokasi di Jl. Dr. Cipto No. 42, Desa Kolor, Kecamatan Kota Sumenep, Jawa Timur.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Di mana lokasi RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Lokasi ### Output: RSUD dr. H. Moh. Anwar Sumenep berlokasi di Jl. Dr. Cipto No. 42, Desa Kolor, Kecamatan Kota Sumenep, Jawa Timur."
+    },
+    {
+        "instruction": "Apa visi RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Umum",
+        "output": "Visi RSUD dr. H. Moh. Anwar Sumenep adalah menjadi rumah sakit terbaik, dikagumi, dan menjadi pilihan utama dalam pelayanan kesehatan di Sumenep dan sekitarnya.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa visi RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Umum ### Output: Visi RSUD dr. H. Moh. Anwar Sumenep adalah menjadi rumah sakit terbaik, dikagumi, dan menjadi pilihan utama dalam pelayanan kesehatan di Sumenep dan sekitarnya."
+    },
+    {
+        "instruction": "Bagaimana cara masyarakat mendapatkan layanan kesehatan gratis di RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Medis",
+        "output": "Masyarakat dapat memanfaatkan program Universal Health Coverage (UHC) yang telah dilaksanakan sejak 2022. Dengan menunjukkan KTP atau KK, masyarakat bisa mendapatkan pengobatan gratis di RSUD dr. H. Moh. Anwar Sumenep.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Bagaimana cara masyarakat mendapatkan layanan kesehatan gratis di RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Medis ### Output: Masyarakat dapat memanfaatkan program Universal Health Coverage (UHC) yang telah dilaksanakan sejak 2022. Dengan menunjukkan KTP atau KK, masyarakat bisa mendapatkan pengobatan gratis di RSUD dr. H. Moh. Anwar Sumenep."
+    },
+    {
+        "instruction": "Apa saja fasilitas unggulan yang dimiliki oleh RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Medis",
+        "output": "RSUD dr. H. Moh. Anwar Sumenep memiliki fasilitas unggulan seperti Instalasi Gawat Darurat (IGD), Intensive Care Unit (ICU), Pediatric Intensive Care Unit (PICU), Neonatal Intensive Care Unit (NICU), serta berbagai poliklinik spesialis dengan tenaga medis profesional.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa saja fasilitas unggulan yang dimiliki oleh RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Medis ### Output: RSUD dr. H. Moh. Anwar Sumenep memiliki fasilitas unggulan seperti Instalasi Gawat Darurat (IGD), Intensive Care Unit (ICU), Pediatric Intensive Care Unit (PICU), Neonatal Intensive Care Unit (NICU), serta berbagai poliklinik spesialis dengan tenaga medis profesional."
+    },
+    {
+        "instruction": "Siapa direktur RSUD dr. H. Moh. Anwar Sumenep saat ini?",
+        "input": "Kategori Direktori",
+        "output": "Direktur RSUD dr. H. Moh. Anwar Sumenep saat ini adalah dr. Erliyati, M.Kes.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Siapa direktur RSUD dr. H. Moh. Anwar Sumenep saat ini? ### Input: Kategori Direktori ### Output: Direktur RSUD dr. H. Moh. Anwar Sumenep saat ini adalah dr. Erliyati, M.Kes."
+    },
+    {
+        "instruction": "Apa saja layanan yang tersedia di Poliklinik Mata RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Medis",
+        "output": "Poliklinik Mata RSUD dr. H. Moh. Anwar Sumenep menyediakan layanan pemeriksaan dan pengobatan berbagai gangguan mata, termasuk operasi katarak dan perawatan retina. Poliklinik ini dilengkapi dengan tiga dokter spesialis mata.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa saja layanan yang tersedia di Poliklinik Mata RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Medis ### Output: Poliklinik Mata RSUD dr. H. Moh. Anwar Sumenep menyediakan layanan pemeriksaan dan pengobatan berbagai gangguan mata, termasuk operasi katarak dan perawatan retina. Poliklinik ini dilengkapi dengan tiga dokter spesialis mata."
+    },
+    {
+        "instruction": "Bagaimana sejarah pendirian RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Umum",
+        "output": "RSUD dr. H. Moh. Anwar Sumenep didirikan pada tahun 1981 dan diresmikan oleh Menteri Kesehatan dan Keluarga Berencana Republik Indonesia saat itu, Bapak DR. Suwardjono Suryaningrat. Rumah sakit ini merupakan pengembangan dari fasilitas kesehatan sebelumnya yang telah ada sejak sebelum tahun 1973.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Bagaimana sejarah pendirian RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Umum ### Output: RSUD dr. H. Moh. Anwar Sumenep didirikan pada tahun 1981 dan diresmikan oleh Menteri Kesehatan dan Keluarga Berencana Republik Indonesia saat itu, Bapak DR. Suwardjono Suryaningrat. Rumah sakit ini merupakan pengembangan dari fasilitas kesehatan sebelumnya yang telah ada sejak sebelum tahun 1973."
+    },
+    {
+        "instruction": "Apa saja program inovatif yang telah dilakukan oleh RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Umum",
+        "output": "RSUD dr. H. Moh. Anwar Sumenep telah melakukan berbagai inovasi, seperti penambahan fasilitas kesehatan, pembukaan poliklinik spesialis baru, dan implementasi program Universal Health Coverage (UHC) untuk memberikan layanan kesehatan gratis kepada masyarakat.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa saja program inovatif yang telah dilakukan oleh RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Umum ### Output: RSUD dr. H. Moh. Anwar Sumenep telah melakukan berbagai inovasi, seperti penambahan fasilitas kesehatan, pembukaan poliklinik spesialis baru, dan implementasi program Universal Health Coverage (UHC) untuk memberikan layanan kesehatan gratis kepada masyarakat."
+    },
+    {
+        "instruction": "Bagaimana cara masyarakat memberikan masukan atau pengaduan terkait layanan RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Medis",
+        "output": "Masyarakat dapat memberikan masukan atau pengaduan melalui kotak saran yang tersedia di rumah sakit atau melalui Instalasi Peduli Pelanggan (IPP). Selain itu, pengaduan juga dapat disampaikan melalui WhatsApp di nomor 0853-3610-2800.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Bagaimana cara masyarakat memberikan masukan atau pengaduan terkait layanan RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Medis ### Output: Masyarakat dapat memberikan masukan atau pengaduan melalui kotak saran yang tersedia di rumah sakit atau melalui Instalasi Peduli Pelanggan (IPP). Selain itu, pengaduan juga dapat disampaikan melalui WhatsApp di nomor 0853-3610-2800."
+    },
+    {
+        "instruction": "Apa saja layanan rawat jalan yang disediakan oleh RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Medis",
+        "output": "RSUD dr. H. Moh. Anwar Sumenep menyediakan layanan rawat jalan melalui berbagai poliklinik spesialis, termasuk penyakit dalam, bedah, anak, jantung, mata, THT, saraf, kulit dan kelamin, kejiwaan, dan klinik gigi. Setiap poliklinik dilengkapi dengan dokter spesialis yang berpengalaman.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa saja layanan rawat jalan yang disediakan oleh RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Medis ### Output: RSUD dr. H. Moh. Anwar Sumenep menyediakan layanan rawat jalan melalui berbagai poliklinik spesialis, termasuk penyakit dalam, bedah, anak, jantung, mata, THT, saraf, kulit dan kelamin, kejiwaan, dan klinik gigi. Setiap poliklinik dilengkapi dengan dokter spesialis yang berpengalaman."
+    },
+    {
+        "instruction": "Apa visi dan misi RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Umum",
+        "output": "Visi RSUD dr. H. Moh. Anwar Sumenep adalah menjadi rumah sakit terbaik, dikagumi, dan menjadi pilihan utama dalam pelayanan kesehatan di Sumenep dan sekitarnya. Misinya meliputi memberikan pelayanan kesehatan yang profesional, meningkatkan kualitas sumber daya manusia, dan mengembangkan sarana dan prasarana yang memadai.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa visi dan misi RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Umum ### Output: Visi RSUD dr. H. Moh. Anwar Sumenep adalah menjadi rumah sakit terbaik, dikagumi, dan menjadi pilihan utama dalam pelayanan kesehatan di Sumenep dan sekitarnya. Misinya meliputi memberikan pelayanan kesehatan yang profesional, meningkatkan kualitas sumber daya manusia, dan mengembangkan sarana dan prasarana yang memadai."
+    },
+    {
+        "instruction": "Apa saja fasilitas penunjang medis yang dimiliki oleh RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Medis",
+        "output": "Fasilitas penunjang medis di RSUD dr. H. Moh. Anwar Sumenep meliputi laboratorium patologi klinik, radiologi dengan layanan rontgen, CT scan, ultrasonografi (USG), elektrokardiogram (EKG), elektroensefalografi (EEG), dan fisioterapi. Fasilitas ini mendukung diagnosa dan perawatan pasien secara komprehensif.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa saja fasilitas penunjang medis yang dimiliki oleh RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Medis ### Output: Fasilitas penunjang medis di RSUD dr. H. Moh. Anwar Sumenep meliputi laboratorium patologi klinik, radiologi dengan layanan rontgen, CT scan, ultrasonografi (USG), elektrokardiogram (EKG), elektroensefalografi (EEG), dan fisioterapi. Fasilitas ini mendukung diagnosa dan perawatan pasien secara komprehensif."
+    },
+    {
+        "instruction": "Bagaimana cara mendaftar sebagai pasien di RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Umum",
+        "output": "Pendaftaran pasien di RSUD dr. H. Moh. Anwar Sumenep dapat dilakukan secara langsung di loket pendaftaran dengan membawa identitas diri dan, jika ada, rujukan dari fasilitas kesehatan sebelumnya. Beberapa layanan mungkin memerlukan janji temu terlebih dahulu.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Bagaimana cara mendaftar sebagai pasien di RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Umum ### Output: Pendaftaran pasien di RSUD dr. H. Moh. Anwar Sumenep dapat dilakukan secara langsung di loket pendaftaran dengan membawa identitas diri dan, jika ada, rujukan dari fasilitas kesehatan sebelumnya. Beberapa layanan mungkin memerlukan janji temu terlebih dahulu."
+    },
+    {
+        "instruction": "Apa saja layanan unggulan yang ditawarkan oleh RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Medis",
+        "output": "RSUD dr. H. Moh. Anwar Sumenep menawarkan layanan unggulan seperti Instalasi Gawat Darurat (IGD) 24 jam, Intensive Care Unit (ICU), Pediatric Intensive Care Unit (PICU), Neonatal Intensive Care Unit (NICU), dan berbagai poliklinik spesialis dengan tenaga medis profesional.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa saja layanan unggulan yang ditawarkan oleh RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Medis ### Output: RSUD dr. H. Moh. Anwar Sumenep menawarkan layanan unggulan seperti Instalasi Gawat Darurat (IGD) 24 jam, Intensive Care Unit (ICU), Pediatric Intensive Care Unit (PICU), Neonatal Intensive Care Unit (NICU), dan berbagai poliklinik spesialis dengan tenaga medis profesional."
+    },
+    {
+        "instruction": "Siapa nama direktur RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Direktori",
+        "output": "Nama direktur RSUD dr. H. Moh. Anwar Sumenep adalah dr. Erliyati, M.Kes.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Siapa nama direktur RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Direktori ### Output: Nama direktur RSUD dr. H. Moh. Anwar Sumenep adalah dr. Erliyati, M.Kes."
+    },
+    {
+        "instruction": "Apa latar belakang pendidikan direktur RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Direktori",
+        "output": "dr. Erliyati, M.Kes., memiliki latar belakang pendidikan di bidang kedokteran dan manajemen kesehatan, yang menjadikannya memiliki kompetensi untuk memimpin rumah sakit dengan pendekatan profesional dan strategis.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa latar belakang pendidikan direktur RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Direktori ### Output: dr. Erliyati, M.Kes., memiliki latar belakang pendidikan di bidang kedokteran dan manajemen kesehatan, yang menjadikannya memiliki kompetensi untuk memimpin rumah sakit dengan pendekatan profesional dan strategis."
+    },
+    {
+        "instruction": "Sejak kapan dr. Erliyati menjabat sebagai direktur RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Direktori",
+        "output": "dr. Erliyati mulai menjabat sebagai direktur RSUD dr. H. Moh. Anwar Sumenep sejak tahun 2018, menggantikan direktur sebelumnya.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Sejak kapan dr. Erliyati menjabat sebagai direktur RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Direktori ### Output: dr. Erliyati mulai menjabat sebagai direktur RSUD dr. H. Moh. Anwar Sumenep sejak tahun 2018, menggantikan direktur sebelumnya."
+    },
+    {
+        "instruction": "Apa visi kepemimpinan dr. Erliyati sebagai direktur RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Direktori",
+        "output": "Visi kepemimpinan dr. Erliyati adalah menjadikan RSUD dr. H. Moh. Anwar Sumenep sebagai rumah sakit rujukan yang memberikan pelayanan kesehatan terbaik, berbasis profesionalisme dan inovasi.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa visi kepemimpinan dr. Erliyati sebagai direktur RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Direktori ### Output: Visi kepemimpinan dr. Erliyati adalah menjadikan RSUD dr. H. Moh. Anwar Sumenep sebagai rumah sakit rujukan yang memberikan pelayanan kesehatan terbaik, berbasis profesionalisme dan inovasi."
+    },
+    {
+        "instruction": "Apa kontribusi utama dr. Erliyati selama menjabat sebagai direktur RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Direktori",
+        "output": "Selama menjabat, dr. Erliyati telah memimpin berbagai program pengembangan rumah sakit, termasuk implementasi Universal Health Coverage (UHC), peningkatan fasilitas pelayanan, dan pengembangan sistem informasi kesehatan digital untuk memudahkan pasien.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa kontribusi utama dr. Erliyati selama menjabat sebagai direktur RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Direktori ### Output: Selama menjabat, dr. Erliyati telah memimpin berbagai program pengembangan rumah sakit, termasuk implementasi Universal Health Coverage (UHC), peningkatan fasilitas pelayanan, dan pengembangan sistem informasi kesehatan digital untuk memudahkan pasien."
+    },
+    {
+        "instruction": "Apa program unggulan yang diperkenalkan oleh dr. Erliyati di RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Umum",
+        "output": "dr. Erliyati memperkenalkan program layanan kesehatan berbasis digital yang memungkinkan pendaftaran online dan sistem antrian elektronik untuk meningkatkan efisiensi pelayanan.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa program unggulan yang diperkenalkan oleh dr. Erliyati di RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Umum ### Output: dr. Erliyati memperkenalkan program layanan kesehatan berbasis digital yang memungkinkan pendaftaran online dan sistem antrian elektronik untuk meningkatkan efisiensi pelayanan."
+    },
+    {
+        "instruction": "Bagaimana dr. Erliyati memastikan kualitas pelayanan di RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Medis",
+        "output": "dr. Erliyati memastikan kualitas pelayanan melalui pelatihan rutin bagi staf medis, evaluasi berkala terhadap fasilitas, dan penerapan standar operasional prosedur (SOP) yang ketat di setiap unit pelayanan.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Bagaimana dr. Erliyati memastikan kualitas pelayanan di RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Medis ### Output: dr. Erliyati memastikan kualitas pelayanan melalui pelatihan rutin bagi staf medis, evaluasi berkala terhadap fasilitas, dan penerapan standar operasional prosedur (SOP) yang ketat di setiap unit pelayanan."
+    },
+    {
+        "instruction": "Apa penghargaan yang pernah diraih RSUD dr. H. Moh. Anwar Sumenep di bawah kepemimpinan dr. Erliyati?",
+        "input": "Kategori Umum",
+        "output": "Di bawah kepemimpinan dr. Erliyati, RSUD dr. H. Moh. Anwar Sumenep telah meraih penghargaan sebagai rumah sakit dengan pelayanan terbaik tingkat regional pada tahun 2021.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa penghargaan yang pernah diraih RSUD dr. H. Moh. Anwar Sumenep di bawah kepemimpinan dr. Erliyati? ### Input: Kategori Umum ### Output: Di bawah kepemimpinan dr. Erliyati, RSUD dr. H. Moh. Anwar Sumenep telah meraih penghargaan sebagai rumah sakit dengan pelayanan terbaik tingkat regional pada tahun 2021."
+    },
+    {
+        "instruction": "Berapa hasil Survei Kepuasan Masyarakat (SKM) RSUD dr. H. Moh. Anwar Sumenep Semester I tahun 2023?",
+        "input": "Kategori Umum",
+        "output": "Hasil Survei Kepuasan Masyarakat (SKM) RSUD dr. H. Moh. Anwar Sumenep Semester I tahun 2023 adalah 87.32%.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Berapa hasil Survei Kepuasan Masyarakat (SKM) RSUD dr. H. Moh. Anwar Sumenep Semester I tahun 2023? ### Input: Kategori Umum ### Output: Hasil Survei Kepuasan Masyarakat (SKM) RSUD dr. H. Moh. Anwar Sumenep Semester I tahun 2023 adalah 87.32%."
+    },
+    {
+        "instruction": "Apa rincian nilai unsur pelayanan dari SKM Semester I tahun 2023 di RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Medis",
+        "output": "Rincian nilai unsur pelayanan Semester I tahun 2023:\n- Prosedur pelayanan: 3.469\n- Persyaratan pelayanan: 3.515\n- Kejelasan petugas pelayanan: 3.325\n- Kedisiplinan petugas pelayanan: 3.825\n- Tanggung jawab petugas pelayanan: 3.428\n- Kemampuan petugas pelayanan: 3.464\n- Kecepatan pelayanan: 3.376\n- Keadilan mendapatkan pelayanan: 3.284\n- Penanganan Pengaduan, Saran dan Masukan: 3.751",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa rincian nilai unsur pelayanan dari SKM Semester I tahun 2023 di RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Medis ### Output: Rincian nilai unsur pelayanan Semester I tahun 2023:\n- Prosedur pelayanan: 3.469\n- Persyaratan pelayanan: 3.515\n- Kejelasan petugas pelayanan: 3.325\n- Kedisiplinan petugas pelayanan: 3.825\n- Tanggung jawab petugas pelayanan: 3.428\n- Kemampuan petugas pelayanan: 3.464\n- Kecepatan pelayanan: 3.376\n- Keadilan mendapatkan pelayanan: 3.284\n- Penanganan Pengaduan, Saran dan Masukan: 3.751"
+    },
+    {
+        "instruction": "Berapa hasil Survei Kepuasan Masyarakat (SKM) RSUD dr. H. Moh. Anwar Sumenep Semester II tahun 2023?",
+        "input": "Kategori Umum",
+        "output": "Hasil Survei Kepuasan Masyarakat (SKM) RSUD dr. H. Moh. Anwar Sumenep Semester II tahun 2023 adalah 88.60%.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Berapa hasil Survei Kepuasan Masyarakat (SKM) RSUD dr. H. Moh. Anwar Sumenep Semester II tahun 2023? ### Input: Kategori Umum ### Output: Hasil Survei Kepuasan Masyarakat (SKM) RSUD dr. H. Moh. Anwar Sumenep Semester II tahun 2023 adalah 88.60%."
+    },
+    {
+        "instruction": "Apa rincian nilai unsur pelayanan dari SKM Semester II tahun 2023 di RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Medis",
+        "output": "Rincian nilai unsur pelayanan Semester II tahun 2023:\n- Prosedur pelayanan: 3.585\n- Persyaratan pelayanan: 3.595\n- Kejelasan petugas pelayanan: 3.365\n- Kedisiplinan petugas pelayanan: 3.755\n- Tanggung jawab petugas pelayanan: 3.405\n- Kemampuan petugas pelayanan: 3.495\n- Kecepatan pelayanan: 3.410\n- Keadilan mendapatkan pelayanan: 3.445\n- Penanganan Pengaduan, Saran dan Masukan: 3.840",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa rincian nilai unsur pelayanan dari SKM Semester II tahun 2023 di RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Medis ### Output: Rincian nilai unsur pelayanan Semester II tahun 2023:\n- Prosedur pelayanan: 3.585\n- Persyaratan pelayanan: 3.595\n- Kejelasan petugas pelayanan: 3.365\n- Kedisiplinan petugas pelayanan: 3.755\n- Tanggung jawab petugas pelayanan: 3.405\n- Kemampuan petugas pelayanan: 3.495\n- Kecepatan pelayanan: 3.410\n- Keadilan mendapatkan pelayanan: 3.445\n- Penanganan Pengaduan, Saran dan Masukan: 3.840"
+    },
+    {
+        "instruction": "Apa peningkatan yang terlihat pada Survei Kepuasan Masyarakat (SKM) RSUD dr. H. Moh. Anwar Sumenep dari Semester I ke Semester II tahun 2023?",
+        "input": "Kategori Umum",
+        "output": "Peningkatan terlihat dari hasil SKM yang meningkat dari 87.32% di Semester I menjadi 88.60% di Semester II. Nilai rata-rata pada unsur pelayanan juga mengalami kenaikan di sebagian besar aspek, seperti prosedur pelayanan, persyaratan pelayanan, dan penanganan pengaduan.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa peningkatan yang terlihat pada Survei Kepuasan Masyarakat (SKM) RSUD dr. H. Moh. Anwar Sumenep dari Semester I ke Semester II tahun 2023? ### Input: Kategori Umum ### Output: Peningkatan terlihat dari hasil SKM yang meningkat dari 87.32% di Semester I menjadi 88.60% di Semester II. Nilai rata-rata pada unsur pelayanan juga mengalami kenaikan di sebagian besar aspek, seperti prosedur pelayanan, persyaratan pelayanan, dan penanganan pengaduan."
+    },
+    {
+        "instruction": "Apa unsur pelayanan dengan nilai tertinggi pada SKM Semester II tahun 2023 di RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Medis",
+        "output": "Unsur pelayanan dengan nilai tertinggi pada SKM Semester II tahun 2023 adalah 'Penanganan Pengaduan, Saran dan Masukan' dengan nilai rata-rata 3.840.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa unsur pelayanan dengan nilai tertinggi pada SKM Semester II tahun 2023 di RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Medis ### Output: Unsur pelayanan dengan nilai tertinggi pada SKM Semester II tahun 2023 adalah 'Penanganan Pengaduan, Saran dan Masukan' dengan nilai rata-rata 3.840."
+    },
+    {
+        "instruction": "Apa unsur pelayanan dengan nilai terendah pada SKM Semester I tahun 2023 di RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Medis",
+        "output": "Unsur pelayanan dengan nilai terendah pada SKM Semester I tahun 2023 adalah 'Keadilan mendapatkan pelayanan' dengan nilai rata-rata 3.284.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa unsur pelayanan dengan nilai terendah pada SKM Semester I tahun 2023 di RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Medis ### Output: Unsur pelayanan dengan nilai terendah pada SKM Semester I tahun 2023 adalah 'Keadilan mendapatkan pelayanan' dengan nilai rata-rata 3.284."
+    },
+    {
+        "instruction": "Apa itu RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Umum",
+        "output": "RSUD dr. H. Moh. Anwar Sumenep adalah Rumah Sakit Umum Daerah milik Pemerintah Kabupaten Sumenep, berstatus Badan Layanan Umum Daerah (BLUD). Rumah sakit ini terletak di Jl. Dr. Cipto No. 42, Desa Kolor, Kecamatan Kota Sumenep, dan memiliki kategori kelas C dengan kapasitas 225 tempat tidur dan 522 karyawan.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa itu RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Umum ### Output: RSUD dr. H. Moh. Anwar Sumenep adalah Rumah Sakit Umum Daerah milik Pemerintah Kabupaten Sumenep, berstatus Badan Layanan Umum Daerah (BLUD). Rumah sakit ini terletak di Jl. Dr. Cipto No. 42, Desa Kolor, Kecamatan Kota Sumenep, dan memiliki kategori kelas C dengan kapasitas 225 tempat tidur dan 522 karyawan."
+    },
+    {
+        "instruction": "Apa tugas RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Umum",
+        "output": "RSUD dr. H. Moh. Anwar Sumenep bertugas membantu Bupati dalam penyelenggaraan kewenangan bidang pelayanan kesehatan. Rumah sakit ini mendukung penyelenggaraan pemerintah daerah di bidang pelayanan kesehatan, dan direktur rumah sakit bertanggung jawab kepada Bupati melalui Sekretaris Daerah.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa tugas RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Umum ### Output: RSUD dr. H. Moh. Anwar Sumenep bertugas membantu Bupati dalam penyelenggaraan kewenangan bidang pelayanan kesehatan. Rumah sakit ini mendukung penyelenggaraan pemerintah daerah di bidang pelayanan kesehatan, dan direktur rumah sakit bertanggung jawab kepada Bupati melalui Sekretaris Daerah."
+    },
+    {
+        "instruction": "Apa jenis pelayanan kesehatan yang diberikan oleh RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Medis",
+        "output": "RSUD dr. H. Moh. Anwar Sumenep memberikan pelayanan kesehatan berupa rawat jalan, rawat inap, penunjang medis, penunjang non-medis, Instalasi Gawat Darurat (IGD), Intensive Care Unit (ICU), serta Pediatric Intensive Care Unit (PICU) dan Neonatal Intensive Care Unit (NICU).",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa jenis pelayanan kesehatan yang diberikan oleh RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Medis ### Output: RSUD dr. H. Moh. Anwar Sumenep memberikan pelayanan kesehatan berupa rawat jalan, rawat inap, penunjang medis, penunjang non-medis, Instalasi Gawat Darurat (IGD), Intensive Care Unit (ICU), serta Pediatric Intensive Care Unit (PICU) dan Neonatal Intensive Care Unit (NICU)."
+    },
+    {
+        "instruction": "Siapa saja dokter spesialis yang bekerja di RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Umum",
+        "output": "RSUD dr. H. Moh. Anwar Sumenep memiliki dokter spesialis seperti dr. Abdul Aziz (Sp.Rad), dr. Ahmad Faizal Amir (Sp.JP), dr. Andri Dwi Wahyudi (Sp.P), dr. Anita Febriana (Sp.A), dan puluhan dokter spesialis lainnya di berbagai bidang seperti bedah, penyakit dalam, anak, gigi, dan lainnya.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Siapa saja dokter spesialis yang bekerja di RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Umum ### Output: RSUD dr. H. Moh. Anwar Sumenep memiliki dokter spesialis seperti dr. Abdul Aziz (Sp.Rad), dr. Ahmad Faizal Amir (Sp.JP), dr. Andri Dwi Wahyudi (Sp.P), dr. Anita Febriana (Sp.A), dan puluhan dokter spesialis lainnya di berbagai bidang seperti bedah, penyakit dalam, anak, gigi, dan lainnya."
+    },
+    {
+        "instruction": "Bagaimana cara memberikan pengaduan atau saran di RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Umum",
+        "output": "Pengaduan atau saran dapat disampaikan secara manual melalui Kotak Saran atau Instalasi Peduli Pelanggan (IPP). Anda juga dapat menghubungi Ibu Vinda Sartika Basri (S.KM) atau Mas Herman Wahyudi (Si.Kom) melalui WhatsApp di nomor 085336102800.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Bagaimana cara memberikan pengaduan atau saran di RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Umum ### Output: Pengaduan atau saran dapat disampaikan secara manual melalui Kotak Saran atau Instalasi Peduli Pelanggan (IPP). Anda juga dapat menghubungi Ibu Vinda Sartika Basri (S.KM) atau Mas Herman Wahyudi (Si.Kom) melalui WhatsApp di nomor 085336102800."
+    },
+    {
+        "instruction": "Apa alamat dan kontak RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Lokasi",
+        "output": "Alamat RSUD dr. H. Moh. Anwar Sumenep adalah Jl. Dr. Cipto No. 42, Desa Kolor, Kecamatan Kota Sumenep, Jawa Timur. Kontak yang tersedia meliputi telepon (0328) – 662129, 662494, 662979, 666527, 661699, 661795, dan email rsudmasumenep@gmail.com.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa alamat dan kontak RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Lokasi ### Output: Alamat RSUD dr. H. Moh. Anwar Sumenep adalah Jl. Dr. Cipto No. 42, Desa Kolor, Kecamatan Kota Sumenep, Jawa Timur. Kontak yang tersedia meliputi telepon (0328) – 662129, 662494, 662979, 666527, 661699, 661795, dan email rsudmasumenep@gmail.com."
+    },
+    {
+        "instruction": "Apa visi pelayanan di RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Medis",
+        "output": "Visi RSUD dr. H. Moh. Anwar Sumenep adalah memberikan pelayanan kesehatan terbaik dengan profesionalisme tinggi, berbasis inovasi, dan menjamin kenyamanan pasien.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa visi pelayanan di RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Medis ### Output: Visi RSUD dr. H. Moh. Anwar Sumenep adalah memberikan pelayanan kesehatan terbaik dengan profesionalisme tinggi, berbasis inovasi, dan menjamin kenyamanan pasien."
+    },
+    {
+        "instruction": "Apa fasilitas unggulan di RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Medis",
+        "output": "Fasilitas unggulan di RSUD dr. H. Moh. Anwar Sumenep meliputi Instalasi Gawat Darurat (IGD), Intensive Care Unit (ICU), Pediatric Intensive Care Unit (PICU), Neonatal Intensive Care Unit (NICU), serta poliklinik rawat jalan dan rawat inap dengan tenaga medis berpengalaman.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa fasilitas unggulan di RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Medis ### Output: Fasilitas unggulan di RSUD dr. H. Moh. Anwar Sumenep meliputi Instalasi Gawat Darurat (IGD), Intensive Care Unit (ICU), Pediatric Intensive Care Unit (PICU), Neonatal Intensive Care Unit (NICU), serta poliklinik rawat jalan dan rawat inap dengan tenaga medis berpengalaman."
+    },
+    {
+        "instruction": "Siapa saja dokter spesialis di RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Umum",
+        "output": "Berikut adalah daftar dokter spesialis di RSUD dr. H. Moh. Anwar Sumenep:\n\n1. dr. Abdul Aziz, Sp.Rad\n2. dr. Ahmad Faizal Amir, Sp.JP\n3. dr. Andri Dwi Wahyudi, Sp.P\n4. dr. Anita Febriana, Sp.A\n5. dr. Arya Rasi Putranto, Sp.B\n6. dr. Diah Pertama S, Sp.THT\n7. dr. Dian Marcia, Sp.A\n8. dr. Didik Permadi, Sp.KFR., M.Ked.Klin\n9. dr. Dominicus Husada, Sp.A\n10. drg. Ekhtiyanto Cahyadi Khusnul Yakin, Sp.KG\n11. dr. Endah Pratamaningtias, Sp.PD\n12. dr. Fardian Yedasukma, Sp.M\n13. dr. Husnul Ghaib, M.Kes, Sp.B (K) Onk\n14. dr. Itja Firdarini, Sp.PK\n15. dr. Karnedi, Sp.M\n16. dr. Lailatus Saadah, Sp.Rad\n17. dr. Mohammad Mudjib, Sp.PD\n18. dr. Muhammad Kriestian, Sp.PD\n19. dr. Pramita Anindya N, Sp.A\n20. dr. Rahmi Utami, Sp.OG\n21. dr. Renny Irviana Eka Tantri, Sp.P\n22. dr. Rinanti Septihingtyas, Sp.An\n23. dr. Rossy Meilani, Sp.PK\n24. dr. Rudi Iskandar Suryadani, Sp.An\n25. dr. Susanti Romala Dewi, Sp.DV\n26. dr. Syaiful Kamil, M.Kes, Sp.B\n27. dr. Sylvia Wijaya, Sp.A\n28. dr. Taurus Laisari, Sp.S\n29. dr. Utomo, Sp.KJ\n30. dr. Winarhadi, Sp.S\n31. dr. Wongso Suhendro, Sp.OG\n32. dr. Yanuar Prionggo, M.Ked.Klin, Sp.OG",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Siapa saja dokter spesialis di RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Umum ### Output: Berikut adalah daftar dokter spesialis di RSUD dr. H. Moh. Anwar Sumenep:\n\n1. dr. Abdul Aziz, Sp.Rad\n2. dr. Ahmad Faizal Amir, Sp.JP\n3. dr. Andri Dwi Wahyudi, Sp.P\n4. dr. Anita Febriana, Sp.A\n5. dr. Arya Rasi Putranto, Sp.B\n6. dr. Diah Pertama S, Sp.THT\n7. dr. Dian Marcia, Sp.A\n8. dr. Didik Permadi, Sp.KFR., M.Ked.Klin\n9. dr. Dominicus Husada, Sp.A\n10. drg. Ekhtiyanto Cahyadi Khusnul Yakin, Sp.KG\n11. dr. Endah Pratamaningtias, Sp.PD\n12. dr. Fardian Yedasukma, Sp.M\n13. dr. Husnul Ghaib, M.Kes, Sp.B (K) Onk\n14. dr. Itja Firdarini, Sp.PK\n15. dr. Karnedi, Sp.M\n16. dr. Lailatus Saadah, Sp.Rad\n17. dr. Mohammad Mudjib, Sp.PD\n18. dr. Muhammad Kriestian, Sp.PD\n19. dr. Pramita Anindya N, Sp.A\n20. dr. Rahmi Utami, Sp.OG\n21. dr. Renny Irviana Eka Tantri, Sp.P\n22. dr. Rinanti Septihingtyas, Sp.An\n23. dr. Rossy Meilani, Sp.PK\n24. dr. Rudi Iskandar Suryadani, Sp.An\n25. dr. Susanti Romala Dewi, Sp.DV\n26. dr. Syaiful Kamil, M.Kes, Sp.B\n27. dr. Sylvia Wijaya, Sp.A\n28. dr. Taurus Laisari, Sp.S\n29. dr. Utomo, Sp.KJ\n30. dr. Winarhadi, Sp.S\n31. dr. Wongso Suhendro, Sp.OG\n32. dr. Yanuar Prionggo, M.Ked.Klin, Sp.OG"
+    },
+    {
+        "instruction": "Siapa dr. Erliyati, Direktur RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Direktori",
+        "output": "dr. Erliyati adalah ASN yang menjabat sebagai Direktur RSUD dr. H. Moh. Anwar Sumenep sejak April 2019. Beliau merupakan lulusan Fakultas Kedokteran Universitas Airlangga Surabaya angkatan 1990, dan satu-satunya mahasiswa berdarah Madura di angkatannya.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Siapa dr. Erliyati, Direktur RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Direktori ### Output: dr. Erliyati adalah ASN yang menjabat sebagai Direktur RSUD dr. H. Moh. Anwar Sumenep sejak April 2019. Beliau merupakan lulusan Fakultas Kedokteran Universitas Airlangga Surabaya angkatan 1990, dan satu-satunya mahasiswa berdarah Madura di angkatannya."
+    },
+    {
+        "instruction": "Apa pengalaman pendidikan dan karier dr. Erliyati?",
+        "input": "Kategori Umum",
+        "output": "dr. Erliyati menyelesaikan pendidikan di Fakultas Kedokteran Universitas Airlangga. Setelah lulus, beliau bekerja di sejumlah rumah sakit, termasuk RS Jombang, RSUD Ibnu Sina Gresik, dan RS Muhammadiyah Lamongan, sebelum kembali ke Sumenep untuk berkarier sebagai PNS. Beliau pernah bertugas di Puskesmas Kangean, Talango, Pragaan, dan Pandian, serta Dinas Kesehatan, sebelum menjabat Direktur RSUD dr. H. Moh. Anwar Sumenep.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa pengalaman pendidikan dan karier dr. Erliyati? ### Input: Kategori Umum ### Output: dr. Erliyati menyelesaikan pendidikan di Fakultas Kedokteran Universitas Airlangga. Setelah lulus, beliau bekerja di sejumlah rumah sakit, termasuk RS Jombang, RSUD Ibnu Sina Gresik, dan RS Muhammadiyah Lamongan, sebelum kembali ke Sumenep untuk berkarier sebagai PNS. Beliau pernah bertugas di Puskesmas Kangean, Talango, Pragaan, dan Pandian, serta Dinas Kesehatan, sebelum menjabat Direktur RSUD dr. H. Moh. Anwar Sumenep."
+    },
+    {
+        "instruction": "Apa tantangan yang dihadapi dr. Erliyati selama kariernya?",
+        "input": "Kategori Umum",
+        "output": "Sebagai satu-satunya mahasiswa Madura di angkatannya, dr. Erliyati menghadapi tantangan untuk menghilangkan stigma bahwa orang Madura terbelakang. Beliau aktif di berbagai kegiatan kemahasiswaan dan terus belajar untuk menunjukkan kemampuan terbaik. Tantangan lain adalah bertugas di daerah terpencil seperti Puskesmas Kangean selama tiga tahun, yang membekalinya pengalaman berharga dalam pelayanan kesehatan.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa tantangan yang dihadapi dr. Erliyati selama kariernya? ### Input: Kategori Umum ### Output: Sebagai satu-satunya mahasiswa Madura di angkatannya, dr. Erliyati menghadapi tantangan untuk menghilangkan stigma bahwa orang Madura terbelakang. Beliau aktif di berbagai kegiatan kemahasiswaan dan terus belajar untuk menunjukkan kemampuan terbaik. Tantangan lain adalah bertugas di daerah terpencil seperti Puskesmas Kangean selama tiga tahun, yang membekalinya pengalaman berharga dalam pelayanan kesehatan."
+    },
+    {
+        "instruction": "Apa kontribusi dr. Erliyati dalam memimpin RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Umum",
+        "output": "dr. Erliyati berfokus pada perbaikan dan evaluasi layanan rumah sakit untuk memberikan pelayanan kesehatan terbaik. Di bawah kepemimpinannya, SKM (Survei Kepuasan Masyarakat) meningkat signifikan, mencapai 86% pada Desember 2022, di atas standar minimal 80%. Beliau terus meningkatkan kualitas pelayanan tanpa berhenti melakukan inovasi.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa kontribusi dr. Erliyati dalam memimpin RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Umum ### Output: dr. Erliyati berfokus pada perbaikan dan evaluasi layanan rumah sakit untuk memberikan pelayanan kesehatan terbaik. Di bawah kepemimpinannya, SKM (Survei Kepuasan Masyarakat) meningkat signifikan, mencapai 86% pada Desember 2022, di atas standar minimal 80%. Beliau terus meningkatkan kualitas pelayanan tanpa berhenti melakukan inovasi."
+    },
+    {
+        "instruction": "Bagaimana perjalanan karier dr. Erliyati sebelum menjadi Direktur RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Direktori",
+        "output": "Setelah menyelesaikan pendidikan, dr. Erliyati bekerja di rumah sakit negeri dan swasta di Jawa Timur. Ia kemudian kembali ke Sumenep untuk bertugas di Puskesmas Kangean, Talango, Pragaan, dan Pandian. Dengan pengalaman tersebut, ia dipercaya sebagai Direktur RSUD dr. H. Moh. Anwar Sumenep pada April 2019.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Bagaimana perjalanan karier dr. Erliyati sebelum menjadi Direktur RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Direktori ### Output: Setelah menyelesaikan pendidikan, dr. Erliyati bekerja di rumah sakit negeri dan swasta di Jawa Timur. Ia kemudian kembali ke Sumenep untuk bertugas di Puskesmas Kangean, Talango, Pragaan, dan Pandian. Dengan pengalaman tersebut, ia dipercaya sebagai Direktur RSUD dr. H. Moh. Anwar Sumenep pada April 2019."
+    },
+    {
+        "instruction": "Apa motivasi dr. Erliyati dalam memilih kembali ke Sumenep setelah bekerja di luar kota?",
+        "input": "Kategori Umum",
+        "output": "Motivasi utama dr. Erliyati adalah memenuhi permintaan ibunya untuk pulang ke kampung halaman. Meskipun memiliki peluang besar di luar Sumenep, ia memilih kembali untuk berbakti kepada keluarga dan masyarakat Madura.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa motivasi dr. Erliyati dalam memilih kembali ke Sumenep setelah bekerja di luar kota? ### Input: Kategori Umum ### Output: Motivasi utama dr. Erliyati adalah memenuhi permintaan ibunya untuk pulang ke kampung halaman. Meskipun memiliki peluang besar di luar Sumenep, ia memilih kembali untuk berbakti kepada keluarga dan masyarakat Madura."
+    },
+    {
+        "instruction": "Apa visi dr. Erliyati dalam memimpin RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Umum",
+        "output": "Visi dr. Erliyati adalah meningkatkan kualitas pelayanan kesehatan dengan evaluasi dan inovasi berkelanjutan. Ia berkomitmen untuk menjadikan RSUD dr. H. Moh. Anwar sebagai rumah sakit dengan pelayanan yang memuaskan dan berkualitas tinggi.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa visi dr. Erliyati dalam memimpin RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Umum ### Output: Visi dr. Erliyati adalah meningkatkan kualitas pelayanan kesehatan dengan evaluasi dan inovasi berkelanjutan. Ia berkomitmen untuk menjadikan RSUD dr. H. Moh. Anwar sebagai rumah sakit dengan pelayanan yang memuaskan dan berkualitas tinggi."
+    },
+    {
+        "instruction": "Bagaimana dr. Erliyati mengenang masa pendidikannya di Universitas Airlangga?",
+        "input": "Kategori Umum",
+        "output": "dr. Erliyati mengenang masa pendidikannya sebagai satu-satunya mahasiswa berdarah Madura di angkatannya. Ia memanfaatkan kesempatan ini untuk menunjukkan kemampuan terbaiknya dan aktif di berbagai kegiatan kemahasiswaan, seperti menjadi ketua panitia bakti sosial.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Bagaimana dr. Erliyati mengenang masa pendidikannya di Universitas Airlangga? ### Input: Kategori Umum ### Output: dr. Erliyati mengenang masa pendidikannya sebagai satu-satunya mahasiswa berdarah Madura di angkatannya. Ia memanfaatkan kesempatan ini untuk menunjukkan kemampuan terbaiknya dan aktif di berbagai kegiatan kemahasiswaan, seperti menjadi ketua panitia bakti sosial."
+    },
+    {
+        "instruction": "Apa yang dilakukan jika pasien tidak perlu rawat inap di RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Umum",
+        "output": "Pasien diberikan resep dan diarahkan ke Depo Farmasi IGD, untuk selanjutnya pasien dapat langsung pulang.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa yang dilakukan jika pasien tidak perlu rawat inap di RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Umum ### Output: Pasien diberikan resep dan diarahkan ke Depo Farmasi IGD, untuk selanjutnya pasien dapat langsung pulang."
+    },
+    {
+        "instruction": "Apa tindakan dokter jika pasien membutuhkan rawat inap di IGD RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Umum",
+        "output": "Dokter jaga IGD menelpon ruangan yang akan dituju untuk memastikan kesiapan ruangan dalam menerima pasien, kemudian pasien dirujuk ke ruangan yang sesuai.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa tindakan dokter jika pasien membutuhkan rawat inap di IGD RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Umum ### Output: Dokter jaga IGD menelpon ruangan yang akan dituju untuk memastikan kesiapan ruangan dalam menerima pasien, kemudian pasien dirujuk ke ruangan yang sesuai."
+    },
+    {
+        "instruction": "Berapa waktu tanggap pelayanan dokter di IGD RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Medis",
+        "output": "Waktu tanggap pelayanan dokter di IGD adalah kurang dari 5 menit setelah pasien datang.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Berapa waktu tanggap pelayanan dokter di IGD RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Medis ### Output: Waktu tanggap pelayanan dokter di IGD adalah kurang dari 5 menit setelah pasien datang."
+    },
+    {
+        "instruction": "Berapa durasi prosedur di IGD untuk pasien Triase Kuning dan Hijau?",
+        "input": "Kategori Umum",
+        "output": "Durasi prosedur di IGD untuk pasien Triase Kuning dan Hijau adalah minimal 2 jam, termasuk administrasi, tindakan medis, pemeriksaan penunjang, hingga pasien dirujuk atau dipulangkan.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Berapa durasi prosedur di IGD untuk pasien Triase Kuning dan Hijau? ### Input: Kategori Umum ### Output: Durasi prosedur di IGD untuk pasien Triase Kuning dan Hijau adalah minimal 2 jam, termasuk administrasi, tindakan medis, pemeriksaan penunjang, hingga pasien dirujuk atau dipulangkan."
+    },
+    {
+        "instruction": "Apa tarif pelayanan di RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Medis",
+        "output": "Tarif menyesuaikan jenis penyakit, jenis tindakan, dan pelayanan yang diberikan, berdasarkan Peraturan Bupati Sumenep Nomor 77 tahun 2022 dan Keputusan Direktur RSUD dr. H. Moh. Anwar.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa tarif pelayanan di RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Medis ### Output: Tarif menyesuaikan jenis penyakit, jenis tindakan, dan pelayanan yang diberikan, berdasarkan Peraturan Bupati Sumenep Nomor 77 tahun 2022 dan Keputusan Direktur RSUD dr. H. Moh. Anwar."
+    },
+    {
+        "instruction": "Apa yang dilakukan jika pasien membutuhkan visum Et Repertum di RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Umum",
+        "output": "Visum Et Repertum dilakukan sesuai dengan protap yang berlaku di RSUD dr. H. Moh. Anwar Sumenep.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa yang dilakukan jika pasien membutuhkan visum Et Repertum di RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Umum ### Output: Visum Et Repertum dilakukan sesuai dengan protap yang berlaku di RSUD dr. H. Moh. Anwar Sumenep."
+    },
+    {
+        "instruction": "Bagaimana standar pelayanan di RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Medis",
+        "output": "Standar pelayanan di RSUD dr. H. Moh. Anwar Sumenep merupakan jaminan dan kepastian pelayanan yang diberikan kepada masyarakat, sebagaimana diatur dalam Keputusan Direktur RSUD dr. H. Moh. Anwar Sumenep.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Bagaimana standar pelayanan di RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Medis ### Output: Standar pelayanan di RSUD dr. H. Moh. Anwar Sumenep merupakan jaminan dan kepastian pelayanan yang diberikan kepada masyarakat, sebagaimana diatur dalam Keputusan Direktur RSUD dr. H. Moh. Anwar Sumenep."
+    },
+    {
+        "instruction": "Apa dasar hukum pelayanan gawat darurat di RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Medis",
+        "output": "Dasar hukum pelayanan gawat darurat mencakup Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-Undangan, serta berbagai peraturan lain yang relevan dengan standar pelayanan rumah sakit.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa dasar hukum pelayanan gawat darurat di RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Medis ### Output: Dasar hukum pelayanan gawat darurat mencakup Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-Undangan, serta berbagai peraturan lain yang relevan dengan standar pelayanan rumah sakit."
+    },
+    {
+        "instruction": "Apa dasar hukum yang digunakan dalam penetapan standar pelayanan di RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Medis",
+        "output": "Dasar hukum yang digunakan meliputi:\n1. Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan.\n2. Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah, sebagaimana telah diubah beberapa kali, terakhir dengan Undang-Undang Nomor 9 Tahun 2015.\n3. Undang-Undang Nomor 25 Tahun 2009 tentang Pelayanan Publik.\n4. Peraturan Pemerintah Nomor 65 Tahun 2005 tentang Pedoman Penyusunan dan Penerapan Standar Pelayanan Minimal.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa dasar hukum yang digunakan dalam penetapan standar pelayanan di RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Medis ### Output: Dasar hukum yang digunakan meliputi:\n1. Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan.\n2. Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah, sebagaimana telah diubah beberapa kali, terakhir dengan Undang-Undang Nomor 9 Tahun 2015.\n3. Undang-Undang Nomor 25 Tahun 2009 tentang Pelayanan Publik.\n4. Peraturan Pemerintah Nomor 65 Tahun 2005 tentang Pedoman Penyusunan dan Penerapan Standar Pelayanan Minimal."
+    },
+    {
+        "instruction": "Apa tujuan penetapan standar pelayanan di RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Medis",
+        "output": "Penetapan standar pelayanan bertujuan untuk mewujudkan penyelenggaraan pelayanan sesuai dengan asas pemerintahan yang baik, menjamin hak dan kewajiban berbagai pihak dalam penyelenggaraan pelayanan publik.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa tujuan penetapan standar pelayanan di RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Medis ### Output: Penetapan standar pelayanan bertujuan untuk mewujudkan penyelenggaraan pelayanan sesuai dengan asas pemerintahan yang baik, menjamin hak dan kewajiban berbagai pihak dalam penyelenggaraan pelayanan publik."
+    },
+    {
+        "instruction": "Siapa yang menetapkan standar pelayanan di RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Medis",
+        "output": "Standar pelayanan di RSUD dr. H. Moh. Anwar Sumenep ditetapkan oleh Direktur RSUD dr. H. Moh. Anwar Kabupaten Sumenep.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Siapa yang menetapkan standar pelayanan di RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Medis ### Output: Standar pelayanan di RSUD dr. H. Moh. Anwar Sumenep ditetapkan oleh Direktur RSUD dr. H. Moh. Anwar Kabupaten Sumenep."
+    },
+    {
+        "instruction": "Apa keputusan utama dalam Kebijakan Standar Layanan RSUDMA ini?",
+        "input": "Kategori Medis",
+        "output": "Keputusan utama adalah menetapkan Standar Pelayanan di Lingkungan RSUD dr. H. Moh. Anwar Kabupaten Sumenep sebagai pedoman untuk memberikan jaminan kepastian pelayanan kepada masyarakat.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa keputusan utama dalam Kebijakan Standar Layanan RSUDMA ini? ### Input: Kategori Medis ### Output: Keputusan utama adalah menetapkan Standar Pelayanan di Lingkungan RSUD dr. H. Moh. Anwar Kabupaten Sumenep sebagai pedoman untuk memberikan jaminan kepastian pelayanan kepada masyarakat."
+    },
+    {
+        "instruction": "Kapan Keputusan Direktur ini mulai berlaku?",
+        "input": "Kategori Direktori",
+        "output": "Keputusan ini mulai berlaku sejak tanggal ditetapkan, yaitu 24 Februari 2023.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Kapan Keputusan Direktur ini mulai berlaku? ### Input: Kategori Direktori ### Output: Keputusan ini mulai berlaku sejak tanggal ditetapkan, yaitu 24 Februari 2023."
+    },
+    {
+        "instruction": "Apa yang dilakukan jika terdapat kesalahan dalam Keputusan Direktur ini?",
+        "input": "Kategori Direktori",
+        "output": "Apabila ditemukan kesalahan dalam Keputusan Direktur ini, maka akan dilakukan perbaikan sebagaimana mestinya.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa yang dilakukan jika terdapat kesalahan dalam Keputusan Direktur ini? ### Input: Kategori Direktori ### Output: Apabila ditemukan kesalahan dalam Keputusan Direktur ini, maka akan dilakukan perbaikan sebagaimana mestinya."
+    },
+    {
+        "instruction": "Apa yang menjadi pertimbangan dalam menetapkan standar pelayanan di RSUD dr. H. Moh. Anwar Sumenep?",
+        "input": "Kategori Medis",
+        "output": "Pertimbangan utama adalah untuk mewujudkan penyelenggaraan pelayanan publik yang sesuai dengan asas pemerintahan yang baik dan memberikan jaminan hak serta kewajiban bagi semua pihak yang terlibat.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa yang menjadi pertimbangan dalam menetapkan standar pelayanan di RSUD dr. H. Moh. Anwar Sumenep? ### Input: Kategori Medis ### Output: Pertimbangan utama adalah untuk mewujudkan penyelenggaraan pelayanan publik yang sesuai dengan asas pemerintahan yang baik dan memberikan jaminan hak serta kewajiban bagi semua pihak yang terlibat."
+    },
+    {
+        "instruction": "Jelaskan kebijakan yang diambil dalam dokumen Kebijakan Standar Layanan RSUDMA secara umum.",
+        "input": "Kategori Medis",
+        "output": "Kebijakan ini menetapkan Standar Pelayanan di RSUD dr. H. Moh. Anwar Kabupaten Sumenep sebagai acuan jaminan dan kepastian bagi penyelenggara dalam memberikan pelayanan yang optimal kepada masyarakat.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Jelaskan kebijakan yang diambil dalam dokumen Kebijakan Standar Layanan RSUDMA secara umum. ### Input: Kategori Medis ### Output: Kebijakan ini menetapkan Standar Pelayanan di RSUD dr. H. Moh. Anwar Kabupaten Sumenep sebagai acuan jaminan dan kepastian bagi penyelenggara dalam memberikan pelayanan yang optimal kepada masyarakat."
+    },
+    {
+        "instruction": "Apa tujuan dari Kebijakan Standar Layanan RSUDMA?",
+        "input": "Kategori Medis",
+        "output": "Tujuan kebijakan ini adalah memberikan jaminan dan kepastian, baik bagi penyelenggara dalam memberikan pelayanan maupun bagi masyarakat dalam menerima pelayanan di RSUD dr. H. Moh. Anwar Kabupaten Sumenep.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa tujuan dari Kebijakan Standar Layanan RSUDMA? ### Input: Kategori Medis ### Output: Tujuan kebijakan ini adalah memberikan jaminan dan kepastian, baik bagi penyelenggara dalam memberikan pelayanan maupun bagi masyarakat dalam menerima pelayanan di RSUD dr. H. Moh. Anwar Kabupaten Sumenep."
+    },
+    {
+        "instruction": "Apa hubungan Lampiran dengan Kebijakan Standar Layanan RSUDMA?",
+        "input": "Kategori Medis",
+        "output": "Lampiran dalam kebijakan ini berisi detail Standar Pelayanan di RSUD dr. H. Moh. Anwar Kabupaten Sumenep, dan lampiran tersebut menjadi bagian yang tidak terpisahkan dari kebijakan ini.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa hubungan Lampiran dengan Kebijakan Standar Layanan RSUDMA? ### Input: Kategori Medis ### Output: Lampiran dalam kebijakan ini berisi detail Standar Pelayanan di RSUD dr. H. Moh. Anwar Kabupaten Sumenep, dan lampiran tersebut menjadi bagian yang tidak terpisahkan dari kebijakan ini."
+    },
+    {
+        "instruction": "Kapan Kebijakan Standar Layanan RSUDMA diberlakukan, dan bagaimana jika ada kesalahan di kemudian hari?",
+        "input": "Kategori Medis",
+        "output": "Kebijakan ini diberlakukan mulai tanggal 24 Februari 2023. Jika di kemudian hari ditemukan kesalahan, kebijakan ini akan diperbaiki sebagaimana mestinya.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Kapan Kebijakan Standar Layanan RSUDMA diberlakukan, dan bagaimana jika ada kesalahan di kemudian hari? ### Input: Kategori Medis ### Output: Kebijakan ini diberlakukan mulai tanggal 24 Februari 2023. Jika di kemudian hari ditemukan kesalahan, kebijakan ini akan diperbaiki sebagaimana mestinya."
+    },
+    {
+        "instruction": "Siapa yang berwenang menetapkan Kebijakan Standar Layanan RSUDMA, dan kapan kebijakan ini ditandatangani?",
+        "input": "Kategori Medis",
+        "output": "Kebijakan ini ditetapkan oleh Direktur RSUD dr. H. Moh. Anwar Kabupaten Sumenep, dr. Erliyati, M.Kes, dan ditandatangani pada tanggal 24 Februari 2023.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Siapa yang berwenang menetapkan Kebijakan Standar Layanan RSUDMA, dan kapan kebijakan ini ditandatangani? ### Input: Kategori Medis ### Output: Kebijakan ini ditetapkan oleh Direktur RSUD dr. H. Moh. Anwar Kabupaten Sumenep, dr. Erliyati, M.Kes, dan ditandatangani pada tanggal 24 Februari 2023."
+    },
+    {
+        "instruction": "Apa jenis pelayanan yang disediakan di lingkungan RSUD dr. H. Moh. Anwar Kabupaten Sumenep?",
+        "input": "Kategori Medis",
+        "output": "Jenis pelayanan yang disediakan meliputi: 1) Pelayanan Gawat Darurat, 2) Pelayanan Rawat Jalan, dan 3) Pelayanan Rawat Inap.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa jenis pelayanan yang disediakan di lingkungan RSUD dr. H. Moh. Anwar Kabupaten Sumenep? ### Input: Kategori Medis ### Output: Jenis pelayanan yang disediakan meliputi: 1) Pelayanan Gawat Darurat, 2) Pelayanan Rawat Jalan, dan 3) Pelayanan Rawat Inap."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Komponen Standar Pelayanan dari Setiap Jenis Pelayanan di RSUD dr. H. Moh. Anwar Kabupaten Sumenep?",
+        "input": "Kategori Medis",
+        "output": "Komponen ini menjelaskan detail standar pelayanan untuk masing-masing jenis pelayanan yang disediakan, termasuk Pelayanan Gawat Darurat di bawah Bidang Pelayanan/Seksi Rawat Jalan.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa yang dimaksud dengan Komponen Standar Pelayanan dari Setiap Jenis Pelayanan di RSUD dr. H. Moh. Anwar Kabupaten Sumenep? ### Input: Kategori Medis ### Output: Komponen ini menjelaskan detail standar pelayanan untuk masing-masing jenis pelayanan yang disediakan, termasuk Pelayanan Gawat Darurat di bawah Bidang Pelayanan/Seksi Rawat Jalan."
+    },
+    {
+        "instruction": "Apa dasar hukum dari pelayanan gawat darurat di RSUD dr. H. Moh. Anwar Kabupaten Sumenep?",
+        "input": "Kategori Medis",
+        "output": "Dasar hukum meliputi: 1) Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan, 2) Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah, 3) Undang-Undang Nomor 25 Tahun 2009 tentang Pelayanan Publik, 4) Peraturan Pemerintah Nomor 65 Tahun 2005 tentang Pedoman Penyusunan dan Penerapan Standar Pelayanan Minimal, 5) Peraturan Menteri Negara Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 15 Tahun 2014 tentang Pedoman Standar Pelayanan, dan 6) Keputusan Menteri Kesehatan Republik Indonesia Nomor 129/Menkes/SK/II/2008 tentang Standar Pelayanan Minimal Rumah Sakit.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa dasar hukum dari pelayanan gawat darurat di RSUD dr. H. Moh. Anwar Kabupaten Sumenep? ### Input: Kategori Medis ### Output: Dasar hukum meliputi: 1) Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan, 2) Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah, 3) Undang-Undang Nomor 25 Tahun 2009 tentang Pelayanan Publik, 4) Peraturan Pemerintah Nomor 65 Tahun 2005 tentang Pedoman Penyusunan dan Penerapan Standar Pelayanan Minimal, 5) Peraturan Menteri Negara Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 15 Tahun 2014 tentang Pedoman Standar Pelayanan, dan 6) Keputusan Menteri Kesehatan Republik Indonesia Nomor 129/Menkes/SK/II/2008 tentang Standar Pelayanan Minimal Rumah Sakit."
+    },
+    {
+        "instruction": "Apa tujuan penetapan standar pelayanan untuk Pelayanan Gawat Darurat di RSUD dr. H. Moh. Anwar Kabupaten Sumenep?",
+        "input": "Kategori Medis",
+        "output": "Tujuannya adalah memberikan pelayanan yang sesuai dengan standar minimal yang telah ditetapkan oleh peraturan perundang-undangan, memastikan kualitas pelayanan yang baik, dan menjamin hak serta kepastian bagi masyarakat dalam menerima pelayanan.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa tujuan penetapan standar pelayanan untuk Pelayanan Gawat Darurat di RSUD dr. H. Moh. Anwar Kabupaten Sumenep? ### Input: Kategori Medis ### Output: Tujuannya adalah memberikan pelayanan yang sesuai dengan standar minimal yang telah ditetapkan oleh peraturan perundang-undangan, memastikan kualitas pelayanan yang baik, dan menjamin hak serta kepastian bagi masyarakat dalam menerima pelayanan."
+    },
+    {
+        "instruction": "Siapa yang bertanggung jawab atas pelayanan gawat darurat di RSUD dr. H. Moh. Anwar Kabupaten Sumenep?",
+        "input": "Kategori Medis",
+        "output": "Pelayanan gawat darurat berada di bawah tanggung jawab Bidang Pelayanan/Seksi Rawat Jalan di RSUD dr. H. Moh. Anwar Kabupaten Sumenep.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Siapa yang bertanggung jawab atas pelayanan gawat darurat di RSUD dr. H. Moh. Anwar Kabupaten Sumenep? ### Input: Kategori Medis ### Output: Pelayanan gawat darurat berada di bawah tanggung jawab Bidang Pelayanan/Seksi Rawat Jalan di RSUD dr. H. Moh. Anwar Kabupaten Sumenep."
+    },
+    {
+        "instruction": "Apa saja persyaratan pasien untuk mendapatkan Pelayanan Minimal Rumah Sakit?",
+        "input": "Kategori Medis",
+        "output": "Persyaratan untuk Pelayanan Minimal Rumah Sakit: 1) Pasien Umum: a) Kartu Identitas, b) Dapat langsung datang ke IGD tanpa rujukan dari Fasilitas Kesehatan Tingkat 1. 2) Pasien BPJS Kesehatan/UHC: a) Kartu Identitas/KTP/KK, b) Rujukan dari Fasilitas Kesehatan Tingkat 1, c) Untuk kasus gawat darurat tanpa membawa rujukan. 3) Pasien Penjaminan Lainnya: a) Kartu peserta Penjaminan, b) Rekomendasi/rujukan dari penjamin, kecuali untuk kasus gawat darurat. 4) Pasien Jasa Raharja: a) Kartu Identitas, b) Laporan Kepolisian (dapat menyusul), c) Surat penjaminan Jasa Raharja (dapat menyusul), d) Dapat langsung datang ke IGD tanpa rujukan. 5) Pasien keperluan Visum: a) Kartu Identitas, b) Surat permohonan visum dari pihak kepolisian.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa saja persyaratan pasien untuk mendapatkan Pelayanan Minimal Rumah Sakit? ### Input: Kategori Medis ### Output: Persyaratan untuk Pelayanan Minimal Rumah Sakit: 1) Pasien Umum: a) Kartu Identitas, b) Dapat langsung datang ke IGD tanpa rujukan dari Fasilitas Kesehatan Tingkat 1. 2) Pasien BPJS Kesehatan/UHC: a) Kartu Identitas/KTP/KK, b) Rujukan dari Fasilitas Kesehatan Tingkat 1, c) Untuk kasus gawat darurat tanpa membawa rujukan. 3) Pasien Penjaminan Lainnya: a) Kartu peserta Penjaminan, b) Rekomendasi/rujukan dari penjamin, kecuali untuk kasus gawat darurat. 4) Pasien Jasa Raharja: a) Kartu Identitas, b) Laporan Kepolisian (dapat menyusul), c) Surat penjaminan Jasa Raharja (dapat menyusul), d) Dapat langsung datang ke IGD tanpa rujukan. 5) Pasien keperluan Visum: a) Kartu Identitas, b) Surat permohonan visum dari pihak kepolisian."
+    },
+    {
+        "instruction": "Jelaskan sistem, mekanisme, dan prosedur yang harus diikuti dalam Pelayanan Minimal Rumah Sakit.",
+        "input": "Kategori Medis",
+        "output": "Sistem, mekanisme, dan prosedur Pelayanan Minimal Rumah Sakit: 1) Pasien dilakukan triase dan asesmen awal oleh petugas IGD (Dokter jaga atau Perawat). 2) Pasien ditempatkan di Zona Triase sesuai tingkat kegawatannya dan ditangani terlebih dahulu. 3) Setelah pasien stabil, keluarga diberi surat pengantar untuk melakukan pendaftaran di Front Office. 4) Keluarga menyerahkan Rekam Medik dan gelang pasien kepada petugas IGD untuk dipasangkan. 5) Dokter melakukan pemeriksaan lanjutan dan pengobatan dibantu perawat IGD. 6) Bila diperlukan pemeriksaan penunjang (laboratorium/radiologi), dokter membuat surat permintaan ke instalasi terkait. 7) Dalam kondisi tertentu, dokter IGD mengonsultasikan kondisi pasien ke Dokter Penanggung Jawab Pasien (DPJP). 8) Dokter memberikan informasi terkait penyakit, tindakan medis, kemungkinan penyulit, alternatif terapi lain, dan prognosis. 9) Perawat dan dokter IGD mengisi rekam medik dan menginput tindakan dalam sistem billing.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Jelaskan sistem, mekanisme, dan prosedur yang harus diikuti dalam Pelayanan Minimal Rumah Sakit. ### Input: Kategori Medis ### Output: Sistem, mekanisme, dan prosedur Pelayanan Minimal Rumah Sakit: 1) Pasien dilakukan triase dan asesmen awal oleh petugas IGD (Dokter jaga atau Perawat). 2) Pasien ditempatkan di Zona Triase sesuai tingkat kegawatannya dan ditangani terlebih dahulu. 3) Setelah pasien stabil, keluarga diberi surat pengantar untuk melakukan pendaftaran di Front Office. 4) Keluarga menyerahkan Rekam Medik dan gelang pasien kepada petugas IGD untuk dipasangkan. 5) Dokter melakukan pemeriksaan lanjutan dan pengobatan dibantu perawat IGD. 6) Bila diperlukan pemeriksaan penunjang (laboratorium/radiologi), dokter membuat surat permintaan ke instalasi terkait. 7) Dalam kondisi tertentu, dokter IGD mengonsultasikan kondisi pasien ke Dokter Penanggung Jawab Pasien (DPJP). 8) Dokter memberikan informasi terkait penyakit, tindakan medis, kemungkinan penyulit, alternatif terapi lain, dan prognosis. 9) Perawat dan dokter IGD mengisi rekam medik dan menginput tindakan dalam sistem billing."
+    },
+    {
+        "instruction": "Jelaskan prosedur tambahan yang perlu dilakukan pada pasien di IGD jika pasien tidak membutuhkan rawat inap atau membutuhkan rawat inap.",
+        "input": "Kategori Umum",
+        "output": "1) Jika pasien tidak membutuhkan rawat inap, pasien diberikan resep dan diarahkan ke Depo Farmasi IGD untuk obat, kemudian dapat langsung pulang. Pasien dianjurkan untuk kontrol sesuai saran dokter. 2) Jika pasien meninggal, dilakukan perawatan jenazah, dan dokter jaga membuat surat keterangan meninggal sebelum jenazah diserahterimakan ke Instalasi Pemulasaran Jenazah. 3) Jika pasien membutuhkan rawat inap, dokter jaga menghubungi ruang rawat tentang kesiapan ruangan dan kondisi pasien, lalu memberikan surat pengantar untuk pendaftaran di Front Office. Setelah ruangan siap, pasien diserahkan kepada petugas transporter untuk diantar ke ruang perawatan.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Jelaskan prosedur tambahan yang perlu dilakukan pada pasien di IGD jika pasien tidak membutuhkan rawat inap atau membutuhkan rawat inap. ### Input: Kategori Umum ### Output: 1) Jika pasien tidak membutuhkan rawat inap, pasien diberikan resep dan diarahkan ke Depo Farmasi IGD untuk obat, kemudian dapat langsung pulang. Pasien dianjurkan untuk kontrol sesuai saran dokter. 2) Jika pasien meninggal, dilakukan perawatan jenazah, dan dokter jaga membuat surat keterangan meninggal sebelum jenazah diserahterimakan ke Instalasi Pemulasaran Jenazah. 3) Jika pasien membutuhkan rawat inap, dokter jaga menghubungi ruang rawat tentang kesiapan ruangan dan kondisi pasien, lalu memberikan surat pengantar untuk pendaftaran di Front Office. Setelah ruangan siap, pasien diserahkan kepada petugas transporter untuk diantar ke ruang perawatan."
+    },
+    {
+        "instruction": "Apa saja jangka waktu pelayanan di IGD RSUD dr. H. Moh. Anwar Kabupaten Sumenep?",
+        "input": "Kategori Medis",
+        "output": "1) Waktu tanggap pelayanan dokter di IGD adalah kurang dari 5 menit sejak pasien datang. 2) Durasi setiap prosedur di IGD mulai dari administrasi hingga selesai (pindah ruangan rawat, rujuk, atau pulang) adalah minimal 2 jam untuk Triase Kuning dan Hijau. 3) Untuk Triase Merah (mengancam nyawa), durasi prosedur menunggu kondisi pasien stabil.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa saja jangka waktu pelayanan di IGD RSUD dr. H. Moh. Anwar Kabupaten Sumenep? ### Input: Kategori Medis ### Output: 1) Waktu tanggap pelayanan dokter di IGD adalah kurang dari 5 menit sejak pasien datang. 2) Durasi setiap prosedur di IGD mulai dari administrasi hingga selesai (pindah ruangan rawat, rujuk, atau pulang) adalah minimal 2 jam untuk Triase Kuning dan Hijau. 3) Untuk Triase Merah (mengancam nyawa), durasi prosedur menunggu kondisi pasien stabil."
+    },
+    {
+        "instruction": "Apa kebijakan tarif yang diterapkan di RSUD dr. H. Moh. Anwar Kabupaten Sumenep?",
+        "input": "Kategori Umum",
+        "output": "Tarif menyesuaikan jenis penyakit, tindakan, dan pelayanan yang diberikan. Kebijakan tarif mengacu pada: 1) Peraturan Bupati Sumenep Nomor 77 Tahun 2022 tentang Tarif RSUD dr. H. Moh. Anwar, 2) Keputusan Direktur RSUD dr. H. Moh. Anwar tentang Penetapan Jenis dan Kelompok Tindakan di RSUD, 3) Tarif INA CBG untuk peserta penjaminan BPJS Kesehatan.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa kebijakan tarif yang diterapkan di RSUD dr. H. Moh. Anwar Kabupaten Sumenep? ### Input: Kategori Umum ### Output: Tarif menyesuaikan jenis penyakit, tindakan, dan pelayanan yang diberikan. Kebijakan tarif mengacu pada: 1) Peraturan Bupati Sumenep Nomor 77 Tahun 2022 tentang Tarif RSUD dr. H. Moh. Anwar, 2) Keputusan Direktur RSUD dr. H. Moh. Anwar tentang Penetapan Jenis dan Kelompok Tindakan di RSUD, 3) Tarif INA CBG untuk peserta penjaminan BPJS Kesehatan."
+    },
+    {
+        "instruction": "Jelaskan kategori produk pelayanan Triase yang diterapkan di IGD.",
+        "input": "Kategori Medis",
+        "output": "Kategori Triase di IGD meliputi: a) MERAH: Pasien prioritas pertama yang berada dalam kondisi kritis (mengancam nyawa) sehingga memerlukan pertolongan medis segera.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Jelaskan kategori produk pelayanan Triase yang diterapkan di IGD. ### Input: Kategori Medis ### Output: Kategori Triase di IGD meliputi: a) MERAH: Pasien prioritas pertama yang berada dalam kondisi kritis (mengancam nyawa) sehingga memerlukan pertolongan medis segera."
+    },
+    {
+        "instruction": "Jelaskan kategori triase yang diterapkan di IGD dan waktu pelayanan yang tersedia.",
+        "input": "Kategori Medis",
+        "output": "Kategori triase di IGD: a) MERAH: Pasien prioritas pertama dengan kondisi kritis (mengancam nyawa) membutuhkan pertolongan medis segera, b) KUNING: Pasien prioritas kedua yang membutuhkan perawatan segera namun kondisi stabil sehingga dapat ditunda beberapa saat, c) HIJAU: Pasien prioritas ketiga yang membutuhkan perawatan di rumah sakit namun dapat ditunda lebih lama (maksimal 30 menit), d) HITAM: Pasien dalam kondisi sangat kritis dengan kemungkinan kecil untuk diselamatkan atau sudah meninggal. Pelayanan buka 24 jam sehari, 7 hari seminggu, termasuk hari libur nasional dan libur bersama.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Jelaskan kategori triase yang diterapkan di IGD dan waktu pelayanan yang tersedia. ### Input: Kategori Medis ### Output: Kategori triase di IGD: a) MERAH: Pasien prioritas pertama dengan kondisi kritis (mengancam nyawa) membutuhkan pertolongan medis segera, b) KUNING: Pasien prioritas kedua yang membutuhkan perawatan segera namun kondisi stabil sehingga dapat ditunda beberapa saat, c) HIJAU: Pasien prioritas ketiga yang membutuhkan perawatan di rumah sakit namun dapat ditunda lebih lama (maksimal 30 menit), d) HITAM: Pasien dalam kondisi sangat kritis dengan kemungkinan kecil untuk diselamatkan atau sudah meninggal. Pelayanan buka 24 jam sehari, 7 hari seminggu, termasuk hari libur nasional dan libur bersama."
+    },
+    {
+        "instruction": "Bagaimana tata cara penanganan pengaduan, saran, dan masukan di RSUD dr. H. Moh. Anwar Kabupaten Sumenep?",
+        "input": "Kategori Umum",
+        "output": "Tata cara penanganan pengaduan: 1) Disampaikan langsung di kantor Pusat Pantauan RS (PUSPA RS), 2) Disampaikan melalui telepon di nomor 085336102800, 3) Disampaikan melalui email di rsudmasumenep@gmail.com, 4) Petugas IPP melaporkan kepada Kepala Instalasi Gawat Darurat untuk klarifikasi dan tanggapan, 5) Petugas mencatat setiap keluhan pada format yang tersedia, 6) Petugas menjawab setiap keluhan setelah mendapatkan klarifikasi.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Bagaimana tata cara penanganan pengaduan, saran, dan masukan di RSUD dr. H. Moh. Anwar Kabupaten Sumenep? ### Input: Kategori Umum ### Output: Tata cara penanganan pengaduan: 1) Disampaikan langsung di kantor Pusat Pantauan RS (PUSPA RS), 2) Disampaikan melalui telepon di nomor 085336102800, 3) Disampaikan melalui email di rsudmasumenep@gmail.com, 4) Petugas IPP melaporkan kepada Kepala Instalasi Gawat Darurat untuk klarifikasi dan tanggapan, 5) Petugas mencatat setiap keluhan pada format yang tersedia, 6) Petugas menjawab setiap keluhan setelah mendapatkan klarifikasi."
+    },
+    {
+        "instruction": "Apa saja sarana prasarana/fasilitas yang tersedia di IGD RSUD dr. H. Moh. Anwar Kabupaten Sumenep?",
+        "input": "Kategori Medis",
+        "output": "Sarana prasarana/fasilitas yang tersedia: 1) Patient Monitor, 2) Oksigen Central, 3) Emergency Kit, 4) Trolly Emergency, 5) Mesin Suction, 6) Monitor EKG, 7) Nebulizer, 8) Hecting Set, 9) Defibrillator, 10) Resusitation Kit, 11) Mobile X-Ray.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa saja sarana prasarana/fasilitas yang tersedia di IGD RSUD dr. H. Moh. Anwar Kabupaten Sumenep? ### Input: Kategori Medis ### Output: Sarana prasarana/fasilitas yang tersedia: 1) Patient Monitor, 2) Oksigen Central, 3) Emergency Kit, 4) Trolly Emergency, 5) Mesin Suction, 6) Monitor EKG, 7) Nebulizer, 8) Hecting Set, 9) Defibrillator, 10) Resusitation Kit, 11) Mobile X-Ray."
+    },
+    {
+        "instruction": "Apa saja kompetensi yang harus dimiliki oleh pelaksana di IGD RSUD dr. H. Moh. Anwar Kabupaten Sumenep?",
+        "input": "Kategori Umum",
+        "output": "Kompetensi pelaksana di IGD: 1) Semua Dokter Spesialis, 2) Dokter Umum bersertifikat ACLS, ATLS, 3) Perawat bersertifikat BLS/BTCLS/PPGD, 4) Bidan bersertifikat PGDON/APN, 5) Transporter bersertifikat BHD, 6) Tenaga Administrasi bersertifikat BHD.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa saja kompetensi yang harus dimiliki oleh pelaksana di IGD RSUD dr. H. Moh. Anwar Kabupaten Sumenep? ### Input: Kategori Umum ### Output: Kompetensi pelaksana di IGD: 1) Semua Dokter Spesialis, 2) Dokter Umum bersertifikat ACLS, ATLS, 3) Perawat bersertifikat BLS/BTCLS/PPGD, 4) Bidan bersertifikat PGDON/APN, 5) Transporter bersertifikat BHD, 6) Tenaga Administrasi bersertifikat BHD."
+    },
+    {
+        "instruction": "Jelaskan struktur pengawasan internal dan jumlah pelaksana di IGD RSUD dr. H. Moh. Anwar Kabupaten Sumenep.",
+        "input": "Kategori Umum",
+        "output": "Struktur pengawasan internal di IGD: 1) Kabid Pelayanan, 2) Kasi Rawat Jalan, 3) Kepala Instalasi IGD, 4) Kepala Ruangan IGD, 5) Perawat Primer/Ketua Tim. Jumlah pelaksana di IGD: 1) Kepala Instalasi IGD: 1 orang, 2) Kepala Ruangan IGD: 1 orang, 3) Dokter Umum: 11 orang, 4) Perawat: 19 orang, 5) Bidan: 4 orang, 6) Transporter: 2 orang, 7) Administrasi: 2 orang.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Jelaskan struktur pengawasan internal dan jumlah pelaksana di IGD RSUD dr. H. Moh. Anwar Kabupaten Sumenep. ### Input: Kategori Umum ### Output: Struktur pengawasan internal di IGD: 1) Kabid Pelayanan, 2) Kasi Rawat Jalan, 3) Kepala Instalasi IGD, 4) Kepala Ruangan IGD, 5) Perawat Primer/Ketua Tim. Jumlah pelaksana di IGD: 1) Kepala Instalasi IGD: 1 orang, 2) Kepala Ruangan IGD: 1 orang, 3) Dokter Umum: 11 orang, 4) Perawat: 19 orang, 5) Bidan: 4 orang, 6) Transporter: 2 orang, 7) Administrasi: 2 orang."
+    },
+    {
+        "instruction": "Apa jaminan pelayanan yang diberikan oleh petugas IGD RSUD dr. H. Moh. Anwar Kabupaten Sumenep?",
+        "input": "Kategori Medis",
+        "output": "Petugas di IGD memberikan pelayanan sesuai kompetensi yang dipersyaratkan dan bekerja sesuai Standarisasi Akreditasi RS versi STARKES. RS telah tersertifikasi Paripurna pada Desember 2022.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa jaminan pelayanan yang diberikan oleh petugas IGD RSUD dr. H. Moh. Anwar Kabupaten Sumenep? ### Input: Kategori Medis ### Output: Petugas di IGD memberikan pelayanan sesuai kompetensi yang dipersyaratkan dan bekerja sesuai Standarisasi Akreditasi RS versi STARKES. RS telah tersertifikasi Paripurna pada Desember 2022."
+    },
+    {
+        "instruction": "Bagaimana RSUD dr. H. Moh. Anwar Kabupaten Sumenep menjamin keamanan dan keselamatan pelayanan?",
+        "input": "Kategori Medis",
+        "output": "RS memiliki Komite Kesehatan dan Keselamatan Kerja Rumah Sakit (K3RS) untuk menjamin keselamatan dan kesehatan tenaga kerja serta mencegah kecelakaan kerja dan Penyakit Akibat Kerja (PAK). Selain itu, K3RS memberikan rasa aman bagi pasien, keluarga pasien, pengunjung, tenaga kesehatan, vendor, dan semua pihak yang terlibat langsung maupun tidak langsung dalam kegiatan rumah sakit.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Bagaimana RSUD dr. H. Moh. Anwar Kabupaten Sumenep menjamin keamanan dan keselamatan pelayanan? ### Input: Kategori Medis ### Output: RS memiliki Komite Kesehatan dan Keselamatan Kerja Rumah Sakit (K3RS) untuk menjamin keselamatan dan kesehatan tenaga kerja serta mencegah kecelakaan kerja dan Penyakit Akibat Kerja (PAK). Selain itu, K3RS memberikan rasa aman bagi pasien, keluarga pasien, pengunjung, tenaga kesehatan, vendor, dan semua pihak yang terlibat langsung maupun tidak langsung dalam kegiatan rumah sakit."
+    },
+    {
+        "instruction": "Bagaimana evaluasi kinerja pelayanan dilakukan di RSUD dr. H. Moh. Anwar Kabupaten Sumenep?",
+        "input": "Kategori Medis",
+        "output": "Evaluasi kinerja dilakukan secara berkala dengan menyampaikan Indikator Kinerja Individu (IKI) dan Indikator Kinerja Unit (IKU) kepada atasan langsung dan Direktur RS.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Bagaimana evaluasi kinerja pelayanan dilakukan di RSUD dr. H. Moh. Anwar Kabupaten Sumenep? ### Input: Kategori Medis ### Output: Evaluasi kinerja dilakukan secara berkala dengan menyampaikan Indikator Kinerja Individu (IKI) dan Indikator Kinerja Unit (IKU) kepada atasan langsung dan Direktur RS."
+    },
+    {
+        "instruction": "Apa dasar hukum dari Pelayanan Rawat Jalan di RSUD dr. H. Moh. Anwar Kabupaten Sumenep?",
+        "input": "Kategori Medis",
+        "output": "Dasar hukum meliputi: 1) Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan, 2) Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah yang telah diubah beberapa kali terakhir dengan Undang-Undang Nomor 9 Tahun 2015.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa dasar hukum dari Pelayanan Rawat Jalan di RSUD dr. H. Moh. Anwar Kabupaten Sumenep? ### Input: Kategori Medis ### Output: Dasar hukum meliputi: 1) Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan, 2) Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah yang telah diubah beberapa kali terakhir dengan Undang-Undang Nomor 9 Tahun 2015."
+    },
+    {
+        "instruction": "Jelaskan persyaratan untuk pasien yang akan mendaftar di rawat jalan RSUD dr. H. Moh. Anwar Kabupaten Sumenep.",
+        "input": "Kategori Umum",
+        "output": "Persyaratan untuk pasien: 1) Pasien Umum: a) Kartu Identitas, b) Dapat langsung datang ke loket pendaftaran (Front Office) tanpa membawa rujukan dari Fasilitas Kesehatan Tingkat I. 2) Pasien BPJS Kesehatan/UHC: a) Kartu Identitas/KTP/KK, b) Rujukan dari Fasilitas Kesehatan Tingkat I. 3) Pasien Penjaminan Lainnya: a) Kartu peserta Penjaminan, b) Rekomendasi/rujukan dari penjamin.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Jelaskan persyaratan untuk pasien yang akan mendaftar di rawat jalan RSUD dr. H. Moh. Anwar Kabupaten Sumenep. ### Input: Kategori Umum ### Output: Persyaratan untuk pasien: 1) Pasien Umum: a) Kartu Identitas, b) Dapat langsung datang ke loket pendaftaran (Front Office) tanpa membawa rujukan dari Fasilitas Kesehatan Tingkat I. 2) Pasien BPJS Kesehatan/UHC: a) Kartu Identitas/KTP/KK, b) Rujukan dari Fasilitas Kesehatan Tingkat I. 3) Pasien Penjaminan Lainnya: a) Kartu peserta Penjaminan, b) Rekomendasi/rujukan dari penjamin."
+    },
+    {
+        "instruction": "Bagaimana sistem, mekanisme, dan prosedur pendaftaran pasien rawat jalan di RSUD dr. H. Moh. Anwar Kabupaten Sumenep?",
+        "input": "Kategori Umum",
+        "output": "Prosedur pendaftaran: 1) Pasien datang ke bagian pendaftaran rawat jalan, mengisi data di mesin antrean, dan mengambil nomor antrean. 2) Petugas pendaftaran memanggil nomor antrean sesuai data yang dientri pasien: a) Pasien umum memverifikasi data dan melakukan pembayaran retribusi sesuai Perbup Tarif, b) Pasien BPJS Kesehatan/UHC memverifikasi data tanpa pembayaran retribusi, c) Pasien Penjaminan lainnya memverifikasi data dan menunjukkan rekomendasi dari pihak penjamin. 3) Petugas mengarahkan pasien ke Poliklinik sesuai keluhan. 4) Jika pasien kunjungan ulang, petugas mengambil rekam medik untuk mengetahui riwayat penyakit. 5) Petugas pendaftaran mengelompokkan berkas rekam medik pasien.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Bagaimana sistem, mekanisme, dan prosedur pendaftaran pasien rawat jalan di RSUD dr. H. Moh. Anwar Kabupaten Sumenep? ### Input: Kategori Umum ### Output: Prosedur pendaftaran: 1) Pasien datang ke bagian pendaftaran rawat jalan, mengisi data di mesin antrean, dan mengambil nomor antrean. 2) Petugas pendaftaran memanggil nomor antrean sesuai data yang dientri pasien: a) Pasien umum memverifikasi data dan melakukan pembayaran retribusi sesuai Perbup Tarif, b) Pasien BPJS Kesehatan/UHC memverifikasi data tanpa pembayaran retribusi, c) Pasien Penjaminan lainnya memverifikasi data dan menunjukkan rekomendasi dari pihak penjamin. 3) Petugas mengarahkan pasien ke Poliklinik sesuai keluhan. 4) Jika pasien kunjungan ulang, petugas mengambil rekam medik untuk mengetahui riwayat penyakit. 5) Petugas pendaftaran mengelompokkan berkas rekam medik pasien."
+    },
+    {
+        "instruction": "Apa saja dasar hukum yang mendasari Pelayanan Rawat Jalan di RSUD dr. H. Moh. Anwar Kabupaten Sumenep?",
+        "input": "Kategori Medis",
+        "output": "Dasar hukum: 1) Undang-Undang Nomor 25 Tahun 2009 tentang Pelayanan Publik, 2) Peraturan Pemerintah Republik Indonesia Nomor 65 Tahun 2005 tentang Pedoman Penyusunan dan Penerapan Standar Pelayanan Minimal, 3) Peraturan Menteri Negara Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 15 Tahun 2014 tentang Pedoman Standar Pelayanan, 4) Keputusan Menteri Kesehatan Republik Indonesia Nomor 129/Menkes/SK/II/2008 tentang Standar Pelayanan Minimal Rumah Sakit.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa saja dasar hukum yang mendasari Pelayanan Rawat Jalan di RSUD dr. H. Moh. Anwar Kabupaten Sumenep? ### Input: Kategori Medis ### Output: Dasar hukum: 1) Undang-Undang Nomor 25 Tahun 2009 tentang Pelayanan Publik, 2) Peraturan Pemerintah Republik Indonesia Nomor 65 Tahun 2005 tentang Pedoman Penyusunan dan Penerapan Standar Pelayanan Minimal, 3) Peraturan Menteri Negara Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 15 Tahun 2014 tentang Pedoman Standar Pelayanan, 4) Keputusan Menteri Kesehatan Republik Indonesia Nomor 129/Menkes/SK/II/2008 tentang Standar Pelayanan Minimal Rumah Sakit."
+    },
+    {
+        "instruction": "Jelaskan prosedur tambahan untuk pasien rawat jalan di RSUD dr. H. Moh. Anwar Kabupaten Sumenep.",
+        "input": "Kategori Umum",
+        "output": "Prosedur tambahan untuk pasien rawat jalan: 1) Perawat memanggil pasien sesuai urutan antrean dan melakukan pemeriksaan tanda vital. 2) Dokter DPJP memeriksa dan memberikan tindakan sesuai indikasi medis. 3) Jika pasien memerlukan pemeriksaan penunjang (laboratorium/radiologi), dokter membuat rujukan internal ke instalasi terkait. 4) Setelah hasil pemeriksaan diterima, pasien kembali ke dokter untuk tindakan lanjutan. 5) Semua hasil pemeriksaan dicatat dalam rekam medis. 6) Jika pasien perlu rujukan eksternal, dibuatkan surat rujukan ke RS lain. 7) Jika memerlukan rawat inap, pasien dan rekam medis diantar ke IGD, dan keluarga mendaftar ulang di loket untuk mendapatkan registrasi rawat inap.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Jelaskan prosedur tambahan untuk pasien rawat jalan di RSUD dr. H. Moh. Anwar Kabupaten Sumenep. ### Input: Kategori Umum ### Output: Prosedur tambahan untuk pasien rawat jalan: 1) Perawat memanggil pasien sesuai urutan antrean dan melakukan pemeriksaan tanda vital. 2) Dokter DPJP memeriksa dan memberikan tindakan sesuai indikasi medis. 3) Jika pasien memerlukan pemeriksaan penunjang (laboratorium/radiologi), dokter membuat rujukan internal ke instalasi terkait. 4) Setelah hasil pemeriksaan diterima, pasien kembali ke dokter untuk tindakan lanjutan. 5) Semua hasil pemeriksaan dicatat dalam rekam medis. 6) Jika pasien perlu rujukan eksternal, dibuatkan surat rujukan ke RS lain. 7) Jika memerlukan rawat inap, pasien dan rekam medis diantar ke IGD, dan keluarga mendaftar ulang di loket untuk mendapatkan registrasi rawat inap."
+    },
+    {
+        "instruction": "Jelaskan waktu pelayanan di Rawat Jalan RSUD dr. H. Moh. Anwar Kabupaten Sumenep.",
+        "input": "Kategori Medis",
+        "output": "Waktu pelayanan di Rawat Jalan: 1) Respon waktu tunggu < 60 menit, 2) Pemeriksaan dokter: 10 menit, 3) Pemeriksaan penunjang: 30 menit, 4) Pelayanan obat non-racikan: 10 menit, 5) Pelayanan obat racikan: 30 menit.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Jelaskan waktu pelayanan di Rawat Jalan RSUD dr. H. Moh. Anwar Kabupaten Sumenep. ### Input: Kategori Medis ### Output: Waktu pelayanan di Rawat Jalan: 1) Respon waktu tunggu < 60 menit, 2) Pemeriksaan dokter: 10 menit, 3) Pemeriksaan penunjang: 30 menit, 4) Pelayanan obat non-racikan: 10 menit, 5) Pelayanan obat racikan: 30 menit."
+    },
+    {
+        "instruction": "Apa saja kebijakan tarif yang diterapkan di RSUD dr. H. Moh. Anwar Kabupaten Sumenep?",
+        "input": "Kategori Umum",
+        "output": "Kebijakan tarif mengacu pada: 1) Peraturan Bupati Sumenep Nomor 77 Tahun 2022 tentang Tarif RSUD dr. H. Moh. Anwar, 2) Keputusan Direktur RSUD dr. H. Moh. Anwar tentang Penetapan Jenis dan Kelompok Tindakan pada RSUD, 3) Tarif INA CBG untuk peserta penjaminan BPJS Kesehatan.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa saja kebijakan tarif yang diterapkan di RSUD dr. H. Moh. Anwar Kabupaten Sumenep? ### Input: Kategori Umum ### Output: Kebijakan tarif mengacu pada: 1) Peraturan Bupati Sumenep Nomor 77 Tahun 2022 tentang Tarif RSUD dr. H. Moh. Anwar, 2) Keputusan Direktur RSUD dr. H. Moh. Anwar tentang Penetapan Jenis dan Kelompok Tindakan pada RSUD, 3) Tarif INA CBG untuk peserta penjaminan BPJS Kesehatan."
+    },
+    {
+        "instruction": "Apa saja produk pelayanan yang disediakan di RSUD dr. H. Moh. Anwar Kabupaten Sumenep?",
+        "input": "Kategori Medis",
+        "output": "Produk pelayanan: 1) Penanganan pasien secara spesialistik pada kondisi tidak gawat darurat, 2) Pelayanan Surat Keterangan Sehat dan General Check-Up, 3) Jam buka pelayanan: a) Senin-Kamis: 07.00-14.00 WIB, b) Jumat: 07.00-11.00 WIB, c) Sabtu: 07.00-13.00 WIB.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa saja produk pelayanan yang disediakan di RSUD dr. H. Moh. Anwar Kabupaten Sumenep? ### Input: Kategori Medis ### Output: Produk pelayanan: 1) Penanganan pasien secara spesialistik pada kondisi tidak gawat darurat, 2) Pelayanan Surat Keterangan Sehat dan General Check-Up, 3) Jam buka pelayanan: a) Senin-Kamis: 07.00-14.00 WIB, b) Jumat: 07.00-11.00 WIB, c) Sabtu: 07.00-13.00 WIB."
+    },
+    {
+        "instruction": "Bagaimana tata cara penanganan pengaduan atau keluhan non-medis di RSUD dr. H. Moh. Anwar Kabupaten Sumenep?",
+        "input": "Kategori Umum",
+        "output": "Tata cara penanganan pengaduan/keluhan non-medis dapat disampaikan kepada Instalasi Peduli Pelanggan (IPP) melalui saluran yang telah disediakan.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Bagaimana tata cara penanganan pengaduan atau keluhan non-medis di RSUD dr. H. Moh. Anwar Kabupaten Sumenep? ### Input: Kategori Umum ### Output: Tata cara penanganan pengaduan/keluhan non-medis dapat disampaikan kepada Instalasi Peduli Pelanggan (IPP) melalui saluran yang telah disediakan."
+    },
+    {
+        "instruction": "Apa saja sarana prasarana/fasilitas yang tersedia di RSUD dr. H. Moh. Anwar Kabupaten Sumenep?",
+        "input": "Kategori Medis",
+        "output": "Sarana prasarana/fasilitas yang tersedia: 1) Sarana Prasarana Rehabilitasi Medik, 2) Sarana Prasarana Laboratorium, 3) Sarana Prasarana Radiologi, 4) Sarana Prasarana ECHO, 5) Sarana Prasarana EKG, 6) Alat pemeriksaan tanda-tanda vital, 7) Alat pemeriksaan fisik sederhana, 8) Emergency Kit, 9) Kursi Roda, 10) Sarana Prasarana K3RS.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa saja sarana prasarana/fasilitas yang tersedia di RSUD dr. H. Moh. Anwar Kabupaten Sumenep? ### Input: Kategori Medis ### Output: Sarana prasarana/fasilitas yang tersedia: 1) Sarana Prasarana Rehabilitasi Medik, 2) Sarana Prasarana Laboratorium, 3) Sarana Prasarana Radiologi, 4) Sarana Prasarana ECHO, 5) Sarana Prasarana EKG, 6) Alat pemeriksaan tanda-tanda vital, 7) Alat pemeriksaan fisik sederhana, 8) Emergency Kit, 9) Kursi Roda, 10) Sarana Prasarana K3RS."
+    },
+    {
+        "instruction": "Apa saja kompetensi yang harus dimiliki oleh pelaksana di RSUD dr. H. Moh. Anwar Kabupaten Sumenep?",
+        "input": "Kategori Umum",
+        "output": "Kompetensi pelaksana: 1) Dokter Sub Spesialis, 2) Semua Dokter Spesialis, 3) Dokter Umum Pengganti bersertifikat ACLS, ATLS, 4) Perawat bersertifikat BLS, 5) Bidan bersertifikat PGDON/APN, 6) Tenaga Administrasi bersertifikat BHD.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa saja kompetensi yang harus dimiliki oleh pelaksana di RSUD dr. H. Moh. Anwar Kabupaten Sumenep? ### Input: Kategori Umum ### Output: Kompetensi pelaksana: 1) Dokter Sub Spesialis, 2) Semua Dokter Spesialis, 3) Dokter Umum Pengganti bersertifikat ACLS, ATLS, 4) Perawat bersertifikat BLS, 5) Bidan bersertifikat PGDON/APN, 6) Tenaga Administrasi bersertifikat BHD."
+    },
+    {
+        "instruction": "Bagaimana pengawasan internal dilakukan di RSUD dr. H. Moh. Anwar Kabupaten Sumenep?",
+        "input": "Kategori Umum",
+        "output": "Pengawasan internal dilakukan secara berjenjang oleh: 1) Kabid Pelayanan, 2) Kasi Rawat Jalan.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Bagaimana pengawasan internal dilakukan di RSUD dr. H. Moh. Anwar Kabupaten Sumenep? ### Input: Kategori Umum ### Output: Pengawasan internal dilakukan secara berjenjang oleh: 1) Kabid Pelayanan, 2) Kasi Rawat Jalan."
+    },
+    {
+        "instruction": "Berapa jumlah pelaksana di RSUD dr. H. Moh. Anwar Kabupaten Sumenep, dan apa saja kategori pelaksananya?",
+        "input": "Kategori Umum",
+        "output": "Jumlah pelaksana dan kategorinya: 1) Dokter Sub Spesialis: 1 orang, 2) Dokter Spesialis: 30 orang, 3) Dokter Umum Pengganti: 3 orang, 4) Dokter Spesialis Gigi: 3 orang, 5) Dokter Gigi Umum: 2 orang, 6) Perawat: 28 orang, 7) Bidan: 2 orang, 8) Fisioterapis: 5 orang, 9) Perawat Gigi: 3 orang, 10) Analis: 13 orang, 11) Asisten Apoteker: 4 orang, 12) Apoteker: 2 orang, 13) Nutrisionis: 1 orang, 14) Radiografer: 7 orang, 15) Administrasi: 2 orang.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Berapa jumlah pelaksana di RSUD dr. H. Moh. Anwar Kabupaten Sumenep, dan apa saja kategori pelaksananya? ### Input: Kategori Umum ### Output: Jumlah pelaksana dan kategorinya: 1) Dokter Sub Spesialis: 1 orang, 2) Dokter Spesialis: 30 orang, 3) Dokter Umum Pengganti: 3 orang, 4) Dokter Spesialis Gigi: 3 orang, 5) Dokter Gigi Umum: 2 orang, 6) Perawat: 28 orang, 7) Bidan: 2 orang, 8) Fisioterapis: 5 orang, 9) Perawat Gigi: 3 orang, 10) Analis: 13 orang, 11) Asisten Apoteker: 4 orang, 12) Apoteker: 2 orang, 13) Nutrisionis: 1 orang, 14) Radiografer: 7 orang, 15) Administrasi: 2 orang."
+    },
+    {
+        "instruction": "Apa jaminan pelayanan yang diberikan di Rawat Jalan RSUD dr. H. Moh. Anwar Kabupaten Sumenep?",
+        "input": "Kategori Medis",
+        "output": "Petugas Rawat Jalan memberikan pelayanan sesuai kompetensi yang dipersyaratkan dan bekerja sesuai standar yang telah ditentukan.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa jaminan pelayanan yang diberikan di Rawat Jalan RSUD dr. H. Moh. Anwar Kabupaten Sumenep? ### Input: Kategori Medis ### Output: Petugas Rawat Jalan memberikan pelayanan sesuai kompetensi yang dipersyaratkan dan bekerja sesuai standar yang telah ditentukan."
+    },
+    {
+        "instruction": "Apa jaminan keamanan dan keselamatan yang diterapkan di RSUD dr. H. Moh. Anwar Kabupaten Sumenep?",
+        "input": "Kategori Umum",
+        "output": "Jaminan keamanan dan keselamatan meliputi: 1) Standarisasi Akreditasi RS versi STARKES dengan sertifikasi Paripurna pada Desember 2022, 2) Komite Kesehatan dan Keselamatan Kerja Rumah Sakit (K3RS) yang menangani kegiatan untuk menjamin keselamatan tenaga kerja, pasien, keluarga pasien, pengunjung, tenaga kesehatan, dan pihak lain yang terlibat dalam kegiatan rumah sakit, 3) Upaya pencegahan kecelakaan kerja dan Penyakit Akibat Kerja (PAK), serta peningkatan mutu layanan untuk memberikan rasa aman dan kepuasan kepada semua pihak.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa jaminan keamanan dan keselamatan yang diterapkan di RSUD dr. H. Moh. Anwar Kabupaten Sumenep? ### Input: Kategori Umum ### Output: Jaminan keamanan dan keselamatan meliputi: 1) Standarisasi Akreditasi RS versi STARKES dengan sertifikasi Paripurna pada Desember 2022, 2) Komite Kesehatan dan Keselamatan Kerja Rumah Sakit (K3RS) yang menangani kegiatan untuk menjamin keselamatan tenaga kerja, pasien, keluarga pasien, pengunjung, tenaga kesehatan, dan pihak lain yang terlibat dalam kegiatan rumah sakit, 3) Upaya pencegahan kecelakaan kerja dan Penyakit Akibat Kerja (PAK), serta peningkatan mutu layanan untuk memberikan rasa aman dan kepuasan kepada semua pihak."
+    },
+    {
+        "instruction": "Apa dasar hukum yang mendasari Pelayanan Rawat Inap di RSUD dr. H. Moh. Anwar Kabupaten Sumenep?",
+        "input": "Kategori Medis",
+        "output": "Dasar hukum Pelayanan Rawat Inap: 1) Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan, 2) Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah yang diubah terakhir dengan Undang-Undang Nomor 9 Tahun 2015, 3) Undang-Undang Nomor 25 Tahun 2009 tentang Pelayanan Publik, 4) Peraturan Pemerintah Nomor 65 Tahun 2005 tentang Pedoman Penyusunan dan Penerapan Standar Pelayanan Minimal, 5) Peraturan Menteri Negara Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 15 Tahun 2014 tentang Pedoman Standar Pelayanan, 6) Keputusan Menteri Kesehatan Republik Indonesia Nomor 129/Menkes/SK/II/2008 tentang Standar Pelayanan Minimal Rumah Sakit.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa dasar hukum yang mendasari Pelayanan Rawat Inap di RSUD dr. H. Moh. Anwar Kabupaten Sumenep? ### Input: Kategori Medis ### Output: Dasar hukum Pelayanan Rawat Inap: 1) Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan, 2) Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah yang diubah terakhir dengan Undang-Undang Nomor 9 Tahun 2015, 3) Undang-Undang Nomor 25 Tahun 2009 tentang Pelayanan Publik, 4) Peraturan Pemerintah Nomor 65 Tahun 2005 tentang Pedoman Penyusunan dan Penerapan Standar Pelayanan Minimal, 5) Peraturan Menteri Negara Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 15 Tahun 2014 tentang Pedoman Standar Pelayanan, 6) Keputusan Menteri Kesehatan Republik Indonesia Nomor 129/Menkes/SK/II/2008 tentang Standar Pelayanan Minimal Rumah Sakit."
+    },
+    {
+        "instruction": "Apa saja persyaratan untuk pasien yang akan masuk rawat inap di RSUD dr. H. Moh. Anwar Kabupaten Sumenep?",
+        "input": "Kategori Umum",
+        "output": "Persyaratan untuk pasien Rawat Inap: 1) Sesuai dengan persyaratan saat masuk IGD, 2) Keluarga pasien membawa Surat Perintah Rawat Inap.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa saja persyaratan untuk pasien yang akan masuk rawat inap di RSUD dr. H. Moh. Anwar Kabupaten Sumenep? ### Input: Kategori Umum ### Output: Persyaratan untuk pasien Rawat Inap: 1) Sesuai dengan persyaratan saat masuk IGD, 2) Keluarga pasien membawa Surat Perintah Rawat Inap."
+    },
+    {
+        "instruction": "Jelaskan sistem, mekanisme, dan prosedur penerimaan pasien rawat inap di RSUD dr. H. Moh. Anwar Kabupaten Sumenep.",
+        "input": "Kategori Umum",
+        "output": "Prosedur penerimaan pasien rawat inap: 1) Memastikan pasien telah menandatangani general informed consent dan persetujuan dirawat di ruangan, 2) Petugas melakukan timbang terima dan mengisi format komunikasi antar unit pelayanan di rekam medik, 3) Menempatkan pasien di ruangan yang disiapkan, 4) Verifikasi identitas pasien melalui gelang identitas dan pemasangan gelang sesuai jenis kelamin, 5) Melakukan asesmen awal (tensi, nadi, pernapasan, suhu), 6) Mengisi rekam medis pasien, 7) Memberitahukan Dokter Penanggung Jawab Pasien (DPJP), 8) Melakukan edukasi kepada pasien dan keluarga serta mencatat bukti edukasi di rekam medik, 9) Melakukan reassessment pada setiap shift jaga dan mencatat di rekam medik.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Jelaskan sistem, mekanisme, dan prosedur penerimaan pasien rawat inap di RSUD dr. H. Moh. Anwar Kabupaten Sumenep. ### Input: Kategori Umum ### Output: Prosedur penerimaan pasien rawat inap: 1) Memastikan pasien telah menandatangani general informed consent dan persetujuan dirawat di ruangan, 2) Petugas melakukan timbang terima dan mengisi format komunikasi antar unit pelayanan di rekam medik, 3) Menempatkan pasien di ruangan yang disiapkan, 4) Verifikasi identitas pasien melalui gelang identitas dan pemasangan gelang sesuai jenis kelamin, 5) Melakukan asesmen awal (tensi, nadi, pernapasan, suhu), 6) Mengisi rekam medis pasien, 7) Memberitahukan Dokter Penanggung Jawab Pasien (DPJP), 8) Melakukan edukasi kepada pasien dan keluarga serta mencatat bukti edukasi di rekam medik, 9) Melakukan reassessment pada setiap shift jaga dan mencatat di rekam medik."
+    },
+    {
+        "instruction": "Apa yang harus dilakukan jika pasien memerlukan rujukan ke rumah sakit lain?",
+        "input": "Kategori Umum",
+        "output": "Jika pasien memerlukan rujukan ke rumah sakit lain: 1) Memberikan edukasi ulang mengenai kondisi yang mengharuskan rujukan, 2) Memastikan pasien mengisi surat persetujuan rujukan, 3) Melakukan kontak dengan rumah sakit tujuan dan mencatat nama petugas yang dihubungi di rekam medik, 4) Menentukan perawat yang mendampingi pasien ke rumah sakit tujuan, 5) Melakukan serah terima dengan perawat rumah sakit tujuan.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa yang harus dilakukan jika pasien memerlukan rujukan ke rumah sakit lain? ### Input: Kategori Umum ### Output: Jika pasien memerlukan rujukan ke rumah sakit lain: 1) Memberikan edukasi ulang mengenai kondisi yang mengharuskan rujukan, 2) Memastikan pasien mengisi surat persetujuan rujukan, 3) Melakukan kontak dengan rumah sakit tujuan dan mencatat nama petugas yang dihubungi di rekam medik, 4) Menentukan perawat yang mendampingi pasien ke rumah sakit tujuan, 5) Melakukan serah terima dengan perawat rumah sakit tujuan."
+    },
+    {
+        "instruction": "Bagaimana prosedur jika pasien dipindahkan ke ruangan lain di RSUD?",
+        "input": "Kategori Umum",
+        "output": "Prosedur jika pasien dipindahkan ke ruangan lain: 1) Melakukan serah terima pasien dengan perawat ruangan tujuan, 2) Mengisi dokumen serah terima pasien di rekam medik.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Bagaimana prosedur jika pasien dipindahkan ke ruangan lain di RSUD? ### Input: Kategori Umum ### Output: Prosedur jika pasien dipindahkan ke ruangan lain: 1) Melakukan serah terima pasien dengan perawat ruangan tujuan, 2) Mengisi dokumen serah terima pasien di rekam medik."
+    },
+    {
+        "instruction": "Apa yang harus dilakukan saat pasien dinyatakan pulang dari rawat inap?",
+        "input": "Kategori Umum",
+        "output": "Prosedur saat pasien dinyatakan pulang: 1) Mengisi lembar resume medis dan keperawatan, 2) Memberikan edukasi tentang gizi, obat, aktivitas yang boleh/tidak boleh dilakukan, serta jadwal kontrol, 3) Menyampaikan potensi kondisi yang bisa terjadi sebelum kontrol dan apa yang harus dilakukan jika terjadi masalah, 4) Melepaskan gelang identitas pasien.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa yang harus dilakukan saat pasien dinyatakan pulang dari rawat inap? ### Input: Kategori Umum ### Output: Prosedur saat pasien dinyatakan pulang: 1) Mengisi lembar resume medis dan keperawatan, 2) Memberikan edukasi tentang gizi, obat, aktivitas yang boleh/tidak boleh dilakukan, serta jadwal kontrol, 3) Menyampaikan potensi kondisi yang bisa terjadi sebelum kontrol dan apa yang harus dilakukan jika terjadi masalah, 4) Melepaskan gelang identitas pasien."
+    },
+    {
+        "instruction": "Apa tindakan yang dilakukan jika pasien berada dalam kondisi kritis selama rawat inap?",
+        "input": "Kategori Umum",
+        "output": "Jika pasien dalam kondisi kritis: 1) Melaporkan kepada dokter jaga dan Dokter Penanggung Jawab Pasien (DPJP), 2) Melakukan tindakan emergency sesuai prosedur.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa tindakan yang dilakukan jika pasien berada dalam kondisi kritis selama rawat inap? ### Input: Kategori Umum ### Output: Jika pasien dalam kondisi kritis: 1) Melaporkan kepada dokter jaga dan Dokter Penanggung Jawab Pasien (DPJP), 2) Melakukan tindakan emergency sesuai prosedur."
+    },
+    {
+        "instruction": "Apa yang dilakukan jika pasien dalam kondisi terminal di RSUD dr. H. Moh. Anwar Kabupaten Sumenep?",
+        "input": "Kategori Umum",
+        "output": "Jika pasien dalam kondisi terminal: 1) Meminta keluarga mengisi lembar permintaan pendampingan rohaniawan sesuai keyakinan, 2) Melakukan kontak dengan tim kerohanian, 3) Mendampingi tim kerohanian selama proses.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa yang dilakukan jika pasien dalam kondisi terminal di RSUD dr. H. Moh. Anwar Kabupaten Sumenep? ### Input: Kategori Umum ### Output: Jika pasien dalam kondisi terminal: 1) Meminta keluarga mengisi lembar permintaan pendampingan rohaniawan sesuai keyakinan, 2) Melakukan kontak dengan tim kerohanian, 3) Mendampingi tim kerohanian selama proses."
+    },
+    {
+        "instruction": "Apa langkah yang diambil jika pasien meninggal dunia di RSUD dr. H. Moh. Anwar Kabupaten Sumenep?",
+        "input": "Kategori Umum",
+        "output": "Jika pasien meninggal dunia: 1) Melakukan perawatan jenazah, 2) Menghubungi petugas Instalasi Pemulasaran Jenazah (IPJ), 3) Melakukan serah terima jenazah dengan petugas IPJ.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa langkah yang diambil jika pasien meninggal dunia di RSUD dr. H. Moh. Anwar Kabupaten Sumenep? ### Input: Kategori Umum ### Output: Jika pasien meninggal dunia: 1) Melakukan perawatan jenazah, 2) Menghubungi petugas Instalasi Pemulasaran Jenazah (IPJ), 3) Melakukan serah terima jenazah dengan petugas IPJ."
+    },
+    {
+        "instruction": "Berapa jangka waktu pelayanan pasien di RSUD dr. H. Moh. Anwar Kabupaten Sumenep?",
+        "input": "Kategori Medis",
+        "output": "Jangka waktu pelayanan disesuaikan dengan kondisi pasien, hingga pasien dinyatakan sembuh, meninggal, atau dirujuk oleh Dokter Penanggung Jawab Pasien (DPJP).",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Berapa jangka waktu pelayanan pasien di RSUD dr. H. Moh. Anwar Kabupaten Sumenep? ### Input: Kategori Medis ### Output: Jangka waktu pelayanan disesuaikan dengan kondisi pasien, hingga pasien dinyatakan sembuh, meninggal, atau dirujuk oleh Dokter Penanggung Jawab Pasien (DPJP)."
+    },
+    {
+        "instruction": "Apa kebijakan tarif yang berlaku di RSUD dr. H. Moh. Anwar Kabupaten Sumenep?",
+        "input": "Kategori Umum",
+        "output": "Tarif pelayanan disesuaikan dengan jenis penyakit, tindakan, dan pelayanan, berdasarkan: 1) Peraturan Bupati Sumenep Nomor 77 Tahun 2022 tentang Tarif RSUD dr. H. Moh. Anwar, 2) Keputusan Direktur RSUD tentang Penetapan Jenis dan Kelompok Tindakan, 3) Tarif INA CBG untuk peserta penjaminan BPJS Kesehatan.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa kebijakan tarif yang berlaku di RSUD dr. H. Moh. Anwar Kabupaten Sumenep? ### Input: Kategori Umum ### Output: Tarif pelayanan disesuaikan dengan jenis penyakit, tindakan, dan pelayanan, berdasarkan: 1) Peraturan Bupati Sumenep Nomor 77 Tahun 2022 tentang Tarif RSUD dr. H. Moh. Anwar, 2) Keputusan Direktur RSUD tentang Penetapan Jenis dan Kelompok Tindakan, 3) Tarif INA CBG untuk peserta penjaminan BPJS Kesehatan."
+    },
+    {
+        "instruction": "Apa saja produk pelayanan yang tersedia di RSUD dr. H. Moh. Anwar Kabupaten Sumenep?",
+        "input": "Kategori Medis",
+        "output": "Produk pelayanan: 1) Penanganan pasien lanjutan setelah kegawatdaruratan di Instalasi Gawat Darurat, 2) Observasi intensif oleh dokter spesialis, 3) Pelayanan buka 24 jam sehari, 7 hari seminggu, termasuk hari libur nasional dan libur bersama.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa saja produk pelayanan yang tersedia di RSUD dr. H. Moh. Anwar Kabupaten Sumenep? ### Input: Kategori Medis ### Output: Produk pelayanan: 1) Penanganan pasien lanjutan setelah kegawatdaruratan di Instalasi Gawat Darurat, 2) Observasi intensif oleh dokter spesialis, 3) Pelayanan buka 24 jam sehari, 7 hari seminggu, termasuk hari libur nasional dan libur bersama."
+    },
+    {
+        "instruction": "Bagaimana tata cara penanganan pengaduan non-medis di RSUD dr. H. Moh. Anwar Kabupaten Sumenep?",
+        "input": "Kategori Umum",
+        "output": "Pengaduan non-medis dapat disampaikan melalui: 1) Kantor Pusat Pantauan RS (PUSPA RS), 2) Telepon di nomor 085336102800, 3) Email di rsudmasumenep@gmail.com, 4) Petugas IPP melaporkan kepada Kasi Rawat Inap untuk klarifikasi dan tanggapan.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Bagaimana tata cara penanganan pengaduan non-medis di RSUD dr. H. Moh. Anwar Kabupaten Sumenep? ### Input: Kategori Umum ### Output: Pengaduan non-medis dapat disampaikan melalui: 1) Kantor Pusat Pantauan RS (PUSPA RS), 2) Telepon di nomor 085336102800, 3) Email di rsudmasumenep@gmail.com, 4) Petugas IPP melaporkan kepada Kasi Rawat Inap untuk klarifikasi dan tanggapan."
+    },
+    {
+        "instruction": "Bagaimana struktur pengawasan internal di RSUD dr. H. Moh. Anwar Kabupaten Sumenep?",
+        "input": "Kategori Umum",
+        "output": "Pengawasan internal dilakukan secara berjenjang oleh: 1) Kabid Pelayanan, 2) Kasi Rawat Inap, 3) Kepala Ruang Rawat Inap, 4) Perawat Primer/Ketua Tim.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Bagaimana struktur pengawasan internal di RSUD dr. H. Moh. Anwar Kabupaten Sumenep? ### Input: Kategori Umum ### Output: Pengawasan internal dilakukan secara berjenjang oleh: 1) Kabid Pelayanan, 2) Kasi Rawat Inap, 3) Kepala Ruang Rawat Inap, 4) Perawat Primer/Ketua Tim."
+    },
+    {
+        "instruction": "Berapa jumlah pelaksana di RSUD dr. H. Moh. Anwar Kabupaten Sumenep, dan apa saja kategorinya?",
+        "input": "Kategori Umum",
+        "output": "RSUD memiliki 6 Ruang Perawatan Rawat Inap dan 2 Ruang Perawatan Intensif. Ketenagaan di setiap ruang meliputi: 1) Ketua KSM: 1 orang, 2) Kepala Ruangan: 1 orang, 3) Perawat Primer merangkap Pembimbing Klinik: 1-2 orang, 4) Ketua Tim Jaga: 4-5 orang, 5) Perawat/Bidan Pelaksana: 2-3 orang per shift.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Berapa jumlah pelaksana di RSUD dr. H. Moh. Anwar Kabupaten Sumenep, dan apa saja kategorinya? ### Input: Kategori Umum ### Output: RSUD memiliki 6 Ruang Perawatan Rawat Inap dan 2 Ruang Perawatan Intensif. Ketenagaan di setiap ruang meliputi: 1) Ketua KSM: 1 orang, 2) Kepala Ruangan: 1 orang, 3) Perawat Primer merangkap Pembimbing Klinik: 1-2 orang, 4) Ketua Tim Jaga: 4-5 orang, 5) Perawat/Bidan Pelaksana: 2-3 orang per shift."
+    },
+    {
+        "instruction": "Apa jaminan pelayanan yang diberikan di Rawat Inap RSUD dr. H. Moh. Anwar Kabupaten Sumenep?",
+        "input": "Kategori Medis",
+        "output": "Petugas Rawat Inap memberikan pelayanan sesuai kompetensi yang dipersyaratkan dan bekerja berdasarkan Standarisasi Akreditasi RS versi STARKES.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa jaminan pelayanan yang diberikan di Rawat Inap RSUD dr. H. Moh. Anwar Kabupaten Sumenep? ### Input: Kategori Medis ### Output: Petugas Rawat Inap memberikan pelayanan sesuai kompetensi yang dipersyaratkan dan bekerja berdasarkan Standarisasi Akreditasi RS versi STARKES."
+    },
+    {
+        "instruction": "Apa saja jaminan keamanan dan keselamatan pelayanan yang diterapkan di RSUD dr. H. Moh. Anwar Kabupaten Sumenep?",
+        "input": "Kategori Medis",
+        "output": "RS memiliki Komite Kesehatan dan Keselamatan Kerja Rumah Sakit (K3RS) yang menangani segala kegiatan untuk menjamin dan melindungi keselamatan tenaga kerja melalui upaya pencegahan kecelakaan kerja dan Penyakit Akibat Kerja (PAK). Selain itu, K3RS memberikan rasa aman bagi pasien, keluarga pasien, pengunjung, tenaga kesehatan, vendor, dan semua pihak yang terlibat langsung maupun tidak langsung dalam kegiatan rumah sakit. Hal ini mempengaruhi mutu layanan dan memberikan kepuasan kepada semua pihak.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Apa saja jaminan keamanan dan keselamatan pelayanan yang diterapkan di RSUD dr. H. Moh. Anwar Kabupaten Sumenep? ### Input: Kategori Medis ### Output: RS memiliki Komite Kesehatan dan Keselamatan Kerja Rumah Sakit (K3RS) yang menangani segala kegiatan untuk menjamin dan melindungi keselamatan tenaga kerja melalui upaya pencegahan kecelakaan kerja dan Penyakit Akibat Kerja (PAK). Selain itu, K3RS memberikan rasa aman bagi pasien, keluarga pasien, pengunjung, tenaga kesehatan, vendor, dan semua pihak yang terlibat langsung maupun tidak langsung dalam kegiatan rumah sakit. Hal ini mempengaruhi mutu layanan dan memberikan kepuasan kepada semua pihak."
+    },
+    {
+        "instruction": "Bagaimana struktur organisasi RSUD dr. H. Moh. Anwar Kabupaten Sumenep?",
+        "input": "Kategori Umum",
+        "output": "Struktur organisasi RSUD dr. H. Moh. Anwar terdiri dari: 1) Direktur sebagai pemimpin utama, 2) Komite-komite pendukung seperti Komite Medis, Komite Keperawatan, Komite Etik, Hukum, dan Kredensial, Komite K3RS, dan lainnya, 3) Bidang Informasi dan Evaluasi dengan SIE Informasi, SIE Evapel, Instalasi Peduli Pelanggan, Instalasi SIMRS, dan Instalasi Front Office dan RM, 4) Bidang Penunjang yang mencakup SIE Penunjang Medis dan SIE Penunjang Non Medis seperti Instalasi Radiologi, Laboratorium, Farmasi, dan lainnya, 5) Bidang Pelayanan yang mencakup SIE Rawat Jalan, SIE Rawat Inap, Instalasi Gawat Darurat, Instalasi Rawat Intensif, Bedah Sentral, Rehabilitasi Medik, dan Hemodialisis, 6) Bagian Tata Usaha dengan Subbagian Kepegawaian, Subbagian Keuangan, dan Subbagian Program Perencanaan.",
+        "text": "Di bawah ini terdapat instruksi yang menjelaskan sebuah tugas. Tulis respons yang sesuai untuk melengkapi permintaan. ### Instruksi: Bagaimana struktur organisasi RSUD dr. H. Moh. Anwar Kabupaten Sumenep? ### Input: Kategori Umum ### Output: Struktur organisasi RSUD dr. H. Moh. Anwar terdiri dari: 1) Direktur sebagai pemimpin utama, 2) Komite-komite pendukung seperti Komite Medis, Komite Keperawatan, Komite Etik, Hukum, dan Kredensial, Komite K3RS, dan lainnya, 3) Bidang Informasi dan Evaluasi dengan SIE Informasi, SIE Evapel, Instalasi Peduli Pelanggan, Instalasi SIMRS, dan Instalasi Front Office dan RM, 4) Bidang Penunjang yang mencakup SIE Penunjang Medis dan SIE Penunjang Non Medis seperti Instalasi Radiologi, Laboratorium, Farmasi, dan lainnya, 5) Bidang Pelayanan yang mencakup SIE Rawat Jalan, SIE Rawat Inap, Instalasi Gawat Darurat, Instalasi Rawat Intensif, Bedah Sentral, Rehabilitasi Medik, dan Hemodialisis, 6) Bagian Tata Usaha dengan Subbagian Kepegawaian, Subbagian Keuangan, dan Subbagian Program Perencanaan."
+    }
+]
