@@ -9,7 +9,7 @@ Chatbot AI RSUD MA untuk WhatsApp 🤖💬 yang dibuat menggunakan teknik _Fine-
     * Formating alpaca style
     * Formating gemma prompt style
 2. _Fine-tuning_ model
-    * ![alt text](<images/W&B Chart.png>)
+    * ![alt text](<images/W&B Chart.png>){width=500px}
     * Model:gemma2-9b-cpt-sahabatai-v1-instruct digunakan sebagai dasar _fine-tuning_.
     * Output: Model dapat memberikan respons spesifik terkait informasi RSUD MA.
 3. _Retrieval-Augmented Generation_ (RAG) untuk Data Dinamis
@@ -17,13 +17,12 @@ Chatbot AI RSUD MA untuk WhatsApp 🤖💬 yang dibuat menggunakan teknik _Fine-
     * Membuat Backend API
     * Data diindeks menggunakan FAISS.
 4. Implementasi WhatsApp
-    * Integrasi dengan library seperti pywhatkit komunikasi otomatis.
+    * Integrasi dengan library Baileys.
 5. Keamanan dan Pembatasan Akses
-    * _Access Control List_ (ACL)
+    * _Access Control List_ (ACL).
 
 ## 💻 Update 28-12-2024
-![alt text](image-3.png)
-Proyek ini masih dalam tahap pengembangan, untuk saat ini developer sedang berada di tahap penyempurnaan RAG.
+Proyek ini masih dalam tahap pengembangan, untuk saat ini developer sedang berada di tahap __3. _Retrieval-Augmented Generation_ (RAG) untuk Data Dinamis__.
 
 ## Fitur yang tersedia
 | Features | Available |
